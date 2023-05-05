@@ -1,8 +1,7 @@
 import csv
 import glob
 import os
-from csv import DictWriter
-from datetime import date, datetime
+from datetime import datetime
 import shutil
 
 # Global:
@@ -10,21 +9,20 @@ working_directory = os.getcwd() + '\\'
 
 
 # This function return a list of csv file in the directory that user input, or the csv file of a specific Store
-def get_filenames(directory, storename=''):
-    filenames = glob.glob(directory + storename + '*.csv')
+def get_filenames(working_directory, storename=''):
+    filenames = glob.glob(working_directory + 'unprocessed_files\\' + storename + '*.csv')
 
     for i in range(len(filenames)):
-        filenames[i] = filenames[i].replace(directory, '')
+        filenames[i] = filenames[i].replace(working_directory, '').replace('unprocessed_files\\','')
     return filenames
 
 
 # This function categorizing files and return a dictionary that include 3 element, each element stand for a category
 # and include a list of .csv file that belong to the category. For ex: file Binh Tan 2 - HMP would be categorized into
 # the category 'HMP'.
-def categorized_filename(filename_list, category_1='HMP', category_2='TPCN', category_3='DD', master_data1=None,
-                         master_data2=None, other='All'):
+def categorized_filename(filename_list, category_1='HMP', category_2='TPCN', category_3='DD', other='All'):
     categories = {category_1: [], category_2: [], category_3: [], 'All': []}
-    master_data = [master_data2, master_data1]
+    # master_data = [master_data2, master_data1]
 
     for filename in filename_list:
         if filename.find(category_1) != -1:
@@ -36,7 +34,7 @@ def categorized_filename(filename_list, category_1='HMP', category_2='TPCN', cat
         if filename.find(category_1) == -1 and filename.find(category_2) == -1 and filename.find(category_3) == -1:
             categories[other].append(filename)
 
-    categories[other] = [files for files in categories[other] if files not in master_data]
+    # categories[other] = [files for files in categories[other] if files not in master_data]
 
     return categories
 
@@ -128,11 +126,10 @@ if __name__ == '__main__':
     processing_stores_path = {}
 
     # Create a dictionary that contain paths to files need to be processed, paths are divided in to 3 main categories.
-    files_dictionary = categorized_filename(get_filenames(working_directory), master_data1='SKU_NH-added.csv',
-                                            master_data2='StoreID.csv')
+    files_dictionary = categorized_filename(get_filenames(working_directory))
 
     # Create a dictionary that include all SKUs divided into 3 categories: HMP, TPCN, DD
-    SKU_dictionary = get_categorized_skus(working_directory)
+    SKU_dictionary = get_categorized_skus(working_directory + 'master_files\\')
 
     # Open each files to read and write necessary data into output files
     for keys in files_dictionary:
@@ -142,11 +139,12 @@ if __name__ == '__main__':
         # Open each file path
         for files in files_dictionary[keys]:
             # Convert filename to include Store name only. Used for output name later.
+            files_direct = working_directory + 'unprocessed_files\\' + files
             output_folder = make_output_folder(working_directory, files)
-            storeid = get_storeid(files, working_directory + 'StoreID.csv')
+            storeid = get_storeid(files, working_directory + 'master_files\\' + 'StoreID.csv')
             output_filename_path = output_folder + storeid + '.csv'
             try:
-                with open(working_directory + files, 'r', encoding='ISO-8859-1') as input_files, open(
+                with open(files_direct, 'r', encoding='ISO-8859-1') as input_files, open(
                         output_filename_path, 'a', newline='',
                         encoding='ISO-8859-1') as output_files:
                     reader = csv.DictReader(input_files)
@@ -170,18 +168,11 @@ if __name__ == '__main__':
                 print("Error in opening files" + str(err))
             print("Done processing store: " + storeid + 'at' + output_folder)
 
-    # for store in processing_stores_path:
-    #     with open(working_directory + 'sourcing/sourcing_discontinued_sku.csv','r',encoding = 'ISO-8859-1') as sourcing_original, open(processing_stores_path[store],'r',encoding = 'ISO-8859-1') as store_data,open(processing_stores_path[store].replace(store,'') + 'sourcing output','a',encoding = 'ISO-8859-1') as sourcing_output:
-    #         reader1 = csv.DictReader(sourcing_original)
-    #         reader2 = csv.DictReader(store_data)
-    #         writer = csv.DictWriter(sourcing_output,fieldnames=reader1.fieldnames)
-    #         writer.writeheader()
-    #         for store_data_row in reader2:
-    #             if store_data_row['STATUS'] == 'N':
-    #                 sourcing_original.seek(0)
-    #                 for sourcing_data_row in reader1:
-    #                     if sourcing_data_row['*Item'] == store_data_row['ITEM'] and sourcing_data_row['*Dest'] == store:
-    #                         writer.writerow(sourcing_data_row)
+    processed_files = get_filenames(working_directory)
+    for file in processed_files:
+        path = working_directory + 'unprocessed_files\\' + file
+        new_path = working_directory + 'processed_files\\' + file
+        shutil.move(path,new_path)
 
     for store_output in processing_stores_path:
         # Write a new sourcing file for each store to decrease the size of reading/checking file
@@ -214,9 +205,9 @@ if __name__ == '__main__':
                     for sourcing_rows in reader2:
                         if sourcing_rows['*Item'] == store_data_rows['ITEM'] and sourcing_rows['Disc'] == '':
                             data = {
-                                '*Item': source_rows['*Item'],
-                                '*Source': source_rows['*Source'],
-                                '*Dest': source_rows['*Dest']
+                                '*Item': sourcing_rows['*Item'],
+                                '*Source': sourcing_rows['*Source'],
+                                '*Dest': sourcing_rows['*Dest']
                             }
                             writer.writerow(data)
 
