@@ -1,0 +1,1440 @@
+STRNUM,STRNAM,STCITY,STSDAT,STPOLL,STRHDO
+38,Xi Nghiep Nuoc Cham Nam Duong,HCM,140618,N,S
+39,Head office-Cua Hang Ben Thanh,HCM,140618,N,S
+101,KSD-Co.opMart Cong Quynh,HCM,0,N,S
+103,KSD-Co.opMart Hau Giang,HCM,0,N,S
+112,Co.opMart Quy Nhon,Binh Dinh,31213,Y,S
+113,KSD-Cty TNHH TM Saigon CanTho,Can Tho,81020,N,S
+114,Co.opMart My Tho,Tien Giang,60120,Y,S
+118,Co.opMart Phan Thiet,"TP Phan Thiet,BThuan",60506,Y,S
+119,Co.opMart Long Xuyen,Tinh An Giang,60506,Y,S
+120,Co.opMart Vinh Long,Tinh Vinh Long,60506,Y,S
+121,Co.opMart Vi Thanh,Tinh Hau Giang,60506,Y,S
+122,Co.opMart Tuy Hoa,Tinh PHU YEN,60506,Y,S
+123,Co.opMart Pleiku,Tinh Gia Lai,60506,Y,S
+124,Co.opMart Bien Hoa,Tinh Dong Nai,60506,Y,S
+125,NKD-Co.opMart Pham Van Hai,TP Ho Chi Minh,81101,N,S
+127,Co.opMart Dong Xoai,Tinh Binh Phuoc,81206,Y,S
+128,Co.opMart Da Nang,Da Nang,91201,Y,S
+130,Co.opMart Rach Mieu,TP.Ho Chi Minh,90901,Y,S
+131,Co.opMart Vung Tau,Tinh BRVT,60506,Y,S
+132,Co.opMart Tam Ky,QUANG NAM,61117,Y,S
+133,Co.opMart Nhieu Loc,HCM,71030,Y,S
+134,Co.opMart Tuy Ly Vuong,Ho Chi MInh,80614,Y,S
+135,Co.opMart 96 Hung Vuong,HCM,80310,Y,S
+136,Co.opMart Binh Tan,HCM,71212,Y,S
+137,Co.opMart Hue,Thua Thien Hue,80404,Y,S
+138,Co.opMart Buon Ma Thuot,Dac lac,81101,Y,S
+139,KSD-Co.opMart Ba Ria,"TP.BaRia,BR-Vung Tau",90101,N,S
+140,Co.opMart Nha Trang,Khanh Hoa,130616,Y,S
+141,Co.opMart Nguyen Anh Thu,Ho Chi Minh,81107,Y,S
+142,Co.opMart Bac Lieu 2,Bac Lieu,80614,Y,S
+144,Co.opMart Kien Giang,Kien Giang,90805,Y,S
+145,Co.opMart Quang Ngai,Quang Ngai,100628,Y,S
+146,Co.opMart Bac Lieu 1,Bac Lieu,0,N,S
+147,Co.opMart Soc Trang,Soc Trang,101115,Y,S
+148,Co.opMart Thanh Ha,Ninh Thuan,90526,Y,S
+149,NKD-Co.opMart Suoi Tien,Ho chi Minh,81220,N,S
+150,Co.opMart Ha Tinh,Ha Tinh,90901,Y,S
+151,Co.opMart Cong Quynh,Ho chi Minh,80612,Y,S
+152,Co.opMart Hoc Mon,HCM,91001,Y,S
+153,Co.opMart Hau Giang,Ho Chi Minh,80612,Y,S
+154,Co.opMart Phu Tho,Ho Chi Minh,80612,Y,S
+155,Co.opMart Nguyen Dinh Chieu,Ho Chi Minh,80612,Y,S
+156,NKD-Co.opMart Dinh Tien Hoang,Ho Chi Minh,80612,N,S
+157,Co.opMart Phu Lam,Ho Chi Minh,80612,Y,S
+158,Co.opMart Thang Loi,Ho Chi Minh,80612,Y,S
+159,Co.opMart Huynh Tan Phat,Ho Chi Minh,80612,Y,S
+160,Co.opMart Nguyen Kiem,Ho Chi Minh,80612,Y,S
+161,Co.opMart Xa Lo Ha Noi,Ho Chi Minh,80612,Y,S
+162,Co.opMart Phan Van Tri,HCM,100101,Y,S
+163,NKD-Co.opMart Tan Bien,Dong nai,91201,N,S
+164,Co.opMart Ha Noi,Ha noi,100222,Y,S
+165,NKD-Co.opMart BMC,Ho Chi Minh,80612,N,S
+166,NKD-Co.opMart An Dong,Ho Chi Minh,80612,Y,S
+167,Co.opMart Dong Ha,Quang Tri,90930,Y,S
+168,Co.opMart Dong Tien,HCM,101230,N,S
+169,Co.opMart Quang Truong Quoc Te,HCM,101230,N,S
+170,Co.opMart Tra Vinh,Tra Vinh,120201,Y,S
+171,Co.opMart Nga Bay Hau Giang,Hau Giang,131213,Y,S
+172,Co.opMart Da Lat,Lam Dong,0,N,S
+173,Co.opMart Bao Loc,Lam Dong,111024,Y,S
+174,Co.opMart Cam Ranh,Khanh Hoa,101022,Y,S
+175,Co.opMart Cu Chi,HCM,110401,Y,S
+176,Co.opMart Tay Ninh,Tay Ninh,110812,Y,S
+177,KSD-Co.opMart Ca Mau,Ca Mau,101231,N,S
+178,Co.opMart Hoa Binh,HCM,111201,Y,S
+179,Co.opMart Vinh Phuc,"TP.VinhYen,Vinh Phuc",111231,Y,S
+180,Co.opMart Can Gio,"Thanh,H.CanThanh-HCM",111201,Y,S
+181,NKD-Co.opMart Hoa Hao,"P3, Q10, HCM",121209,N,S
+183,Co.opMart Hai Phong,Hai Phong,120516,Y,S
+184,Co.opMart Rach Gia,Kien Giang,120620,Y,S
+185,Co.opMart Thanh Hoa,Thanh Hoa,130130,Y,S
+186,Co.opMart Binh Trieu,HCM,130531,Y,S
+187,Co.opMart Can Tho,Can Tho,130814,Y,S
+189,Co.opMart Trang Bang,Tay Ninh,131017,Y,S
+190,NKD-Co.opMart Hoang Mai,TP.Ha Noi,131112,N,S
+191,NKD-Co.opMart Vung Tau 2,Ba Ria-Vung Tau,131125,N,S
+193,KSD-Co.opMart Vinh Loc B,"Binh Chanh,HCM",140212,N,S
+194,KSD-Co.opMart Do Van Day,"Hoc Mon, HCM",140715,N,S
+201,KSD-CHTP Phan Van Tri,Ho Chi Minh,81127,N,S
+202,KSD-CHTP Pasteur,Ho Chi Minh,81127,N,S
+203,KSD-CHTP Tran Chanh Chieu,HCM,90504,N,S
+204,KSD-CHTP Chu Van An,HCM,90504,N,S
+205,KSD-CHTP Dong Thanh,HCM,91001,N,S
+206,KSD-CHTP Binh Chieu,Ho chi mInh,91201,N,S
+207,KSD-CHTP Le Van Sy,Ho Chi Minh,91201,N,S
+208,KSD-CHTP Cho Lon,HCM,100101,N,S
+211,CH Co.opFood Phan Van Tri,HCM,100315,Y,S
+212,CH Co.opFood Pasteur,HCM,100315,Y,S
+213,CH Co.opFood Tran Chanh Chieu,HCM,100315,Y,S
+214,CH Co.opFood Chu Van An,HCM,100315,Y,S
+215,CH Co.opFood Dong Thanh,HCM,100315,Y,S
+216,NKD-CH Co.opFood Binh Chieu,HCM,100310,N,S
+217,CH Co.opFood Le Van Sy,HCM,100224,Y,S
+218,CH Co.opFood Cho Lon,HCM,100310,Y,S
+219,KSD-CH Co.opFood Hoang Van Thu,HCM,100302,N,S
+220,CH Co.opFood Bach Ma,HCM,100506,Y,S
+221,CH Co.opFood Dang Van Bi,Ho Chi Minh,100629,Y,S
+222,NKD-CH Co.opFood 3 Thang 2,HCM,100721,N,S
+223,NKD-CH Co.opFood Cao Lo,HCM,101015,N,S
+224,NKD-CH Co.opFood Cau Kinh,HCM,101129,N,S
+225,CH Co.opFood Tan Thoi Hiep,HCM,101130,Y,S
+226,CH Co.opFood Phuc An Loc,HCM,101229,Y,S
+227,CH Co.opFood Linh Trung,Thu Duc-HCM,110426,Y,S
+228,CH Co.opFood Nguyen Ba Tong,HCM,110524,Y,S
+229,CH Co.opFood Le Duc Tho,HCM,110530,Y,S
+230,CH Co.opFood Le Quang Dinh,HCM,110701,Y,S
+231,NKD-CH Co.opFood Binh Hoa,HCM,110831,N,S
+232,NKD-CH Co.opFood Ba Chieu,HCM,110822,N,S
+233,CH Co.opFood Nguyen Thi Dinh,HCM,110913,Y,S
+234,CH Co.opFood Le Van Tho,HCM,110920,Y,S
+235,NKD-CH Co.opFood Binh Tien,HCM,111025,N,S
+236,CH Co.opFood Thao Dien,HCM,111115,Y,S
+237,CH Co.opFood Binh Trung,HCM,111129,Y,S
+238,CH Co.opFood Hiep Binh,HCM,111220,Y,S
+239,CH Co.opFood Phu Loi,HCM,111223,Y,S
+240,CH Co.opFood Tran Quang Khai,HCM,120202,Y,S
+242,KSD-CH Co.opFood BinhTrungDong,HCM,120315,N,S
+243,CH Co.opFood Nguyen Van Qua,HCM,120406,Y,S
+244,CH Co.opFood Cho Cau,HCM,120406,Y,S
+245,CH Co.opFood Nguyen Oanh,HCM,120508,Y,S
+246,CH Co.opFood Nguyen Cuu Dam,HCM,120508,Y,S
+247,CH Co.opFood Lam Van Ben,HCM,120605,Y,S
+248,NKD-CH Co.opFood Pham Phu Thu,HCM,120605,N,S
+249,CH Co.opFood Tran Xuan Soan,HCM,120628,Y,S
+250,NKD-CH Co.opFood CMT8,HCM,120807,N,S
+251,CH Co.opFood Do Xuan Hop,HCM,120926,Y,S
+252,KSD-CH Co.opFood Binh Phu,HCM,120928,N,S
+253,CH Co.opFood To Ngoc Van,HCM,121031,Y,S
+254,CH Co.opFood Vinh Hoi,HCM,121128,Y,S
+255,CH Co.opFood Pham The Hien,HCM,121130,Y,S
+256,CH Co.opFood Phu Xuan,HCM,130326,Y,S
+257,CH Co.opFood Pham Van Chieu,HCM,130424,Y,S
+258,NKD-CH Co.opFood Pham Huu Lau,HCM,130426,N,S
+259,CH Co.opFood Le Van Quoi,HCM,130524,Y,S
+260,NKD-CH Co.opFood Tan Ky TanQuy,HCM,130529,N,S
+261,CH Co.opFood Quang Trung,HCM,130605,Y,S
+262,CH Co.opFood Huynh Tan Phat,HCM,130605,Y,S
+263,CH Co.opFood Nha Be,HCM,130717,Y,S
+264,NKD-CH Co.opFood Huong Lo 2,HCM,130814,N,S
+265,CH Co.opFood Truong Tho,HCM,130912,Y,S
+266,KSD-CH Co.opFood Long Phuoc,Ho Chi Minh,131007,N,S
+267,CH Co.opFood Kha Van Can,Ho Chi Minh,131007,Y,S
+268,NKD-CH Co.opFood Binh Quoi,Ho Chi Minh,131007,N,S
+269,CH Co.opFood Bach Dang,HCM,131111,Y,S
+270,CH Co.opFood KCN Tan Thoi Hiep,Ho Chi Minh,131118,Y,S
+271,NKD-CH Co.opFood KCN Tan Binh,CNIII-TanPhu-HCM,131118,N,S
+272,CH Co.opFood KCN Hiep Phuoc,Nha Be-HCM,131118,Y,S
+273,KSD-CH Co.opFood Long Hau,Long An,131118,N,S
+274,CH Co.opFood Le Van Viet,Ho Chi Minh,131118,Y,S
+275,CH Co.opFood KCN Vinh Loc,Ho Chi Minh,131118,Y,S
+276,CH Co.opFood KCN Tay Bac,Ho Chi Minh,131118,Y,S
+277,CH Co.opFood Truong Cong Dinh,HCM,131120,Y,S
+278,CH Co.opFood Pham Van Bach,Ho Chi Minh,131204,Y,S
+279,CH Co.opFood Ton That Thuyet,Ho Chi Minh,131204,Y,S
+280,CH Co.opFood To Hien Thanh,Ho Chi Minh,131204,Y,S
+281,CH Co.opFood Truong Dinh Hoi,HCM,140317,Y,S
+282,CH Co.opFood Quoc Lo 50,HCM,140407,Y,S
+283,NKD-CH Co.opFood Tay Thanh,HCM,140407,N,S
+284,CH Co.opFood Ung Van Khiem,HCM,140506,Y,S
+285,KSD-CH Co.opFood Tinh Lo 10,HCM,140509,N,S
+286,CH Co.opFood Thap Muoi,HCM,140513,Y,S
+287,CH Co.opFood Go Xoai,HCM,140513,Y,S
+288,NKD-CH Co.opFood To Ky,HCM,140602,N,S
+289,CH Co.opFood Bui Dinh Tuy,HCM,140612,Y,S
+290,CH Co.opFood Nguyen Van Tang,HCM,140709,Y,S
+291,CH Co.opFood Le Van Khuong,HCM,140807,Y,S
+298,CH Co.opFood Hung Phu,HCM,150518,Y,S
+299,Head Office Cty TNHHMTV TP SGC,HCM,100224,N,O
+300,KSD-Cty TNHH SGCoop-FairPrice,HCM,121116,N,O
+301,Co-opXtra Linh Trung,HCM,121116,Y,S
+601,CTY TNHH Truyen Thong SGCO.OP,HCM,110910,Y,S
+706,TC Co.opFood Binh Chieu206,Binh Duong,0,N,S
+707,TC Co.opFood Le Van Sy-207,Binh Duong,91201,N,S
+711,TC CHCF Phan Van Tri-100,Binh Duong,100910,N,S
+712,TC CHCF Pasteur-100,Binh Duong,100910,N,S
+713,TC CHCF Tran Chanh Chieu-100,Binh Duong,100910,N,S
+714,TC CHCF Chu Van An-100,Binh Duong,100910,N,S
+715,TC CHCF Dong Thanh-100,Binh Duong,100910,N,S
+716,TC CHCF Binh Chieu-100,Binh Duong,100210,N,S
+717,TC CHCF Le Van Sy-100,Binh Duong,100210,N,S
+718,TC CHCF Cho Lon-100,Binh Duong,100710,N,S
+719,TC CHCF Hoang Van Thu-100,Binh Duong,100302,N,S
+720,TC CHCF Bach Ma-100,Binh Duong,100506,N,S
+721,TC CHCF Dang Van Bi-100,Binh Duong,100629,N,S
+722,TC CHCF 3 thang 2-100,Binh Duong,100721,N,S
+723,TC CHCF Cao Lo-100,Binh Duong,101015,N,S
+724,TC CHCF Cau Kinh-100,Binh duong,101129,N,S
+725,TC CHCF Tan Thoi Hiep-100,Binh Duong,101130,N,S
+726,TC CHCF Phuc An Loc-100,Binh Duong,101229,N,S
+727,TC CHCF Linh Trung-100,Binh Duong,110428,N,S
+728,TC CHCF Nguyen Ba Tong-100,Binh Duong,110524,N,S
+729,TC CHCF Le Duc Tho-100,Binh Duong,110530,N,S
+730,TC CHCF Le Quang Dinh-100,Binh Duong,110701,N,S
+731,TC CHCF Binh Hoa-100,Binh Duong,110831,N,S
+732,TC CHCF Ba Chieu-100,Binh Duong,110822,N,S
+733,TC CHCF Nguyen Thi Dinh-100,Binh Duong,110913,N,S
+734,TC CHCF Le Van Tho-100,Binh Duong,0,N,S
+735,TC CHCF Binh Tien-100,Binh Duong,111025,N,S
+736,TC CHCF Thao Dien-100,Binh Duong,111115,N,S
+737,TC CHCF Binh Trung-100,Binh Duong,111129,N,S
+738,TC CHCF Hiep Binh-100,Binh Duong,0,N,S
+739,TC CHCF Phu Loi-100,Binh Duong,111223,N,S
+740,TC CHCF Tran Quang Khai-100,Binh Duong,120202,N,S
+741,TC CHCF Nguyen Bieu-100,Binh Duong,120215,N,S
+742,TC CHCF Binh Trung Dong-100,Binh Duong,120315,N,S
+743,TC CHCF Nguyen Van Qua-100,Binh Duong,120406,N,S
+744,TC CHCF Cho Cau-100,Binh Duong,120406,N,S
+745,TC CHCF Nguyen Oanh-100,Binh Duong,120508,N,S
+746,TC CHCF Nguyen Cuu Dam-100,Binh Duong,120508,N,S
+747,TC CHCF Lam Van Ben-100,Binh Duong,120605,N,S
+748,TC CHCF Pham Phu Thu-100,Binh Duong,120605,N,S
+749,TC CHCF Tran Xuan Soan-100,Binh Duong,120628,N,S
+750,TC CHCF Cach Mang Thang 8-100,Binh Duong,120807,N,S
+751,TC CHCF Do Xuan Hop-100,Binh Duong,120926,N,S
+752,TC CHCF Binh Phu-100,Binh Duong,120928,N,S
+753,TC CHCF To Ngoc Van-100,Binh Duong,121031,N,S
+754,TC CHCF Vinh Hoi-100,Binh Duong,121128,N,S
+755,TC CHCF Pham The Hien-100,Binh Duong,121130,N,S
+756,TC CHCF Phu Xuan-100,Binh Duong,130326,N,S
+757,TC CHCF Pham Van Chieu-100,Binh Duong,130424,N,S
+758,TC CHCF Pham Huu Lau-100,Binh Duong,130426,N,S
+759,TC CHCF Le Van Quoi-100,Binh Duong,130524,N,S
+760,TC CHCF Tan Ky Tan Quy-100,Binh Duong,130529,N,S
+761,TC CHCF Quang Trung-100,Binh Duong,130605,N,S
+762,TC CHCF Huynh Tan Phat-100,Binh Duong,130605,N,S
+763,TC CHCF Nha Be-100,Binh Duong,130717,N,S
+764,TC CHCF Huong Lo 2-100,Binh Duong,130814,N,S
+765,TC CHCF Truong Tho-100,Binh Duong,130912,N,S
+766,TC CHCF Long Phuoc-100,Binh Duong,131007,N,S
+767,TC CHCF Kha Van Can-100,Binh Duong,131007,N,S
+768,TC CHCF Binh Quoi-100,Binh Duong,131007,N,S
+769,TC CHCF Bach Dang-100,Binh Duong,131111,N,S
+770,TC CHCF KCN Tan Thoi Hiep-100,Binh Duong,131118,N,S
+771,TC CHCF KCN Tan Binh-100,Binh Duong,131118,N,S
+772,TC CHCF KCN Hiep Phuoc-100,Binh Duong,131118,N,S
+773,TC CHCF KCN Long Hau-100,Binh Duong,131118,N,S
+774,TC CHCF Le Van Viet-100,Binh Duong,131118,N,S
+775,TC CHCF KCN Vinh Loc-100,Binh Duong,131118,N,S
+776,TC CHCF Tay Bac-100,Binh Duong,131118,N,S
+777,TC CHCF Truong Cong Dinh-100,Binh Duong,131120,N,S
+778,TC CHCF Pham Van Bach-100,Binh Duong,0,N,S
+779,TC CHCF Ton That Thuyet-100,Binh Duong,131204,N,S
+780,TC CHCF To Hien Thanh-100,Binh Duong,131204,N,S
+781,TC CHCF Truong Dinh Hoi-100,Binh Duong,140317,N,S
+782,TC CHCF Quoc Lo 50-100,Binh Duong,140407,N,S
+783,TC CHCF Tay Thanh-100,Binh Duong,140407,N,S
+784,TC CHCF Ung Van Khiem-100,Binh Duong,140506,N,S
+785,TC CHCF Tinh Lo 10-100,Binh Duong,140509,N,S
+786,TC CHCF Thap Muoi-100,Binh Duong,140513,N,S
+787,TC CHCF Go Xoai-100,Binh Duong,140513,N,S
+788,TC CHCF To Ky-100,Binh Duong,140602,N,S
+789,TC CHCF Bui Dinh Tuy-100,Binh Duong,140612,N,S
+790,TC CHCF Nguyen Van Tang-100,Binh Duong,140709,N,S
+791,TC CHCF Le Van Khuong-100,Binh Duong,140807,N,S
+799,TC cua HTX-CHCoop,HCM,60301,N,S
+801,Trung Tam Phan phoi Song Than,Binh Duong,0,N,W
+802,Trung Tam Phan phoi Mien Tay,Hau Giang,91101,N,W
+808,Kho TPTS-Song Than,Binh Duong,110419,N,W
+812,Trung chuyen Quy Nhon-112,HCM,31213,N,S
+813,Trung chuyen Can Tho-113,Binh Duong,0,N,S
+814,Trung chuyen My Tho-114,Binh Duong,51213,N,S
+817,Trung chuyen Ly T Kiet-117,Binh Duong,61114,N,S
+818,Trung chuyen Phan Thiet- 118,Binh Duong,70313,N,S
+819,Trung chuyen Long Xuyen-119,Binh Duong,61214,N,S
+820,Trung chuyen Vinh Long-120,Binh Duong,61222,N,S
+821,Trung chuyen Vi Thanh-121,Binh Duong,70313,N,S
+822,Trung chuyen Tuy Hoa-122,Binh Duong,61222,N,S
+823,Trung chuyen PLEIKU-123,Binh Duong,61221,N,S
+824,Trung chuyen Bien Hoa-124,Binh Duong,0,N,S
+825,Trung chuyen Pham Van Hai-125,Binh Duong,81101,N,S
+826,Trung chuyen Ben Tre-126,Binh duong,81023,N,S
+827,Trung chuyen Dong Xoai-127,Binh Duong,81023,N,S
+828,Trung chuyen Da Nang-128,Binh Duong,61222,N,S
+829,Trung chuyen Long An-129,Binh Duong,90901,N,S
+830,Trung Chuyen Rach Mieu-130,Binh Duong,90901,N,S
+831,Trung chuyen Vung Tau-131,Binh Duong,71207,N,S
+832,Trung chuyen Tam Ky-132,Binh Duong,61222,N,S
+833,Trung chuyen Nhieu Loc-133,Binh Duong,71108,N,S
+834,Trung chuyen Tuy Ly Vuong-134,Binh Duong,80310,N,S
+835,Trung chuyen 96 Hung Vuong-135,Binh Duong,80310,N,S
+836,Trung chuyen Binh Tan-136,Binh Duong,71212,N,S
+837,Trung chuyen Hue-137,Binh Duong,80229,N,S
+838,Trung chuyen Buon Ma Thuot-138,Binh Duong,80310,N,S
+839,Trung Chuyen Ba Ria-139,Binh Duong,80310,N,S
+840,Trung chuyen Nha Trang-140,Binh Duong,130616,N,S
+841,Trung chuyen Ng Anh Thu-141,Binh duong,71108,N,S
+842,Trung chuyen bac Lieu2-142,Hau Giang,111115,N,S
+843,Trung chuyen Binh Duong-143,Binh Duong,91001,N,S
+844,Trung chuyen Kien Giang-144,Binh Duong,90901,N,S
+845,Trung chuyen Quang Ngai-145,Binh Duong,100526,N,S
+847,Trung chuyen Soc Trang-147,Hau Giang,0,N,S
+848,Trung chuyen Thanh Ha-148,Binh Duong,90601,N,S
+849,Trung chuyen Suoi Tien-149,Binh Duong,81220,N,S
+850,Trung chuyen Ha Tinh-150,Binh Duong,90504,N,S
+851,Trung chuyen C.Quynh-151,Binh Duong,80617,N,S
+852,Trung chuyen Hoc Mon-152,Binh Duong,91001,N,S
+853,Trung chuyen Hau Giang-153,Binh Duong,80617,N,S
+854,Trung chuyen Phu Tho-154,Binh Duong,80617,N,S
+855,Trung chuyen NDChieu-155,Binh Duong,80617,N,S
+856,Trung chuyen DTHoang-156,Binh Duong,0,N,S
+857,Trung Chuyen Phu Lam-157,Binh Duong,80617,N,S
+858,Trung Chuyen Thang Loi-158,Binh Duong,800617,N,S
+859,TChuyen Huynh Tan Phat-159,Binh Duong,80617,N,S
+860,Trung Chuyen NKiem-160,Binh Duong,80617,N,S
+861,Trung Chuyen XLHN-161,Binh Duong,80617,N,S
+862,Trung chuyen Phan Van Tri-162,Binh Duong,100101,N,S
+863,Trung chuyen Tan Bien-163,Binh Duong,91201,N,S
+864,Trung chuyen Ha Noi-164,Binh Duong,100222,N,S
+865,Trung chuyen BMC-165,Binh Duong,80617,N,S
+866,Trung chuyen AnDong Plaza-166,Binh Duong,80617,N,S
+867,Trung chuyen Quang Tri-167,Binh duong,90930,N,S
+868,Trung chuyen Dong Tien-168,Binh Duong,0,N,S
+869,Trung chuyen QTQT-169,Binh Duong,101230,N,S
+870,Trung chuyen Tra Vinh-170,Binh Duong,111115,N,S
+871,Trung chuyen Nga Bay-171,Binh Duong,131213,N,S
+872,Trung chuyen Da Lat-172,Binh Duong,101231,N,S
+873,Trung chuyen Bao Loc-173,Binh Duong,101231,N,S
+874,Trung chuyen Cam Ranh-174,Binh Duong,101001,N,S
+875,Trung chuyen Cu Chi-175,Binh Duong,0,N,S
+876,Trung chuyen Tay Ninh-176,Binh Duong,110812,N,S
+877,Trung chuyen Ca Mau-177,Binh Duong,0,N,S
+878,TC Co.opMart Hoa Binh-178,Binh Duong,111115,N,S
+879,Trung chuyen Vinh Phuc-179,Binh Duong,111103,N,S
+880,Trung chuyen Can Gio-180,Binh Duong,111201,N,S
+881,Trung chuyen Hoa Hao-181,Binh Duong,121209,N,S
+882,Trung chuyen Nguyen Xi-182,Binh Duong,111101,N,S
+883,Trung chuyen Hai Phong-183,Binh Duong,120516,N,S
+884,Trung chuyen Rach Gia-184,Binh Duong,131003,N,S
+885,Trung Chuyen Thanh Hoa-185,Binh Duong,0,N,S
+886,Trung chuyen Binh Trieu-186,Binh Duong,130531,N,S
+887,Trung Chuyen Can Tho-187,Binh Duong,130814,N,S
+888,Kho TC TTPP-Hang TPTS,Di an-Binh Duong,60301,N,S
+889,Trung chuyen Trang Bang-189,Binh Duong,131017,N,S
+890,Trung chuyen Hoang Mai-190,Binh Duong,131112,N,S
+891,Trung chuyen Vung Tau 2-191,Binh Duong,131125,N,S
+892,Trung chuyen Hiep Thanh-192,Binh Duong,131226,N,S
+899,Trung chuyen Ben Tre-199,Binh Duong,141229,N,S
+900,Head Office SGC - 1,HCM,0,N,O
+901,TC Co-opXtra Linh Trung-301,Binh Duong,121116,N,S
+6601,TC SG Media,Binh Duong,110913,N,S
+7211,TC CHTP Phan Van Tri-299,Binh Duong,100226,N,S
+7212,TC CHTP Pastuer-299,Binh Duong,110404,N,S
+7213,KTC TPTS-CN CF MIEN BAC-299,Binh Duong,110428,N,S
+7214,TC CHTP Chu Van An-299,Binh Duong,110428,N,S
+7215,TC CHTP Dong Thanh-299,Binh Duong,110428,N,S
+7216,TC CHTP Binh Chieu-299,Binh Duong,110428,N,S
+7217,TC CHTP Le van Sy-299,Binh Duong,110428,N,S
+7218,TC CHTP CHO LON-299,Binh Duong,110404,N,S
+7219,TC CHTP Hoang Van Thu-299,Binh Duong,110226,N,S
+7220,TC CHTP Bach Ma-299,Binh Duong,110404,N,S
+7221,TC CHTP Dang Van Bi-299,Binh Duong,110428,N,S
+7222,TC CHTP 3THANG2-299,Binh Duong,110404,N,S
+7223,TC CHTP CAO LO-299,Binh Duong,110428,N,S
+7224,TC CHTP Cau Kinh-299,Binh Duong,110404,N,S
+7225,TC CHTP tan Thoi Hiep-299,Binh Duong,110428,N,S
+7226,TC CHTP Phuc An Loc-299,Binh Duong,110428,N,S
+7227,TC CHTP Linh Trung-299,Binh Duong,110426,N,S
+7228,TC CHTP Nguyen Ba Tong-299,Binh Duong,110524,N,S
+7229,TC CHTP Le Duc Tho-299,Binh Duong,110530,N,S
+7230,TC CHTP Le Quang Dinh-299,Binh Duong,110701,N,S
+7231,TC CHTP Binh Hoa-299,Binh Duong,110831,N,S
+7232,TC CHTP Ba Chieu-299,HCM,110822,N,S
+7233,TC CHTP Nguyen Thi Dinh-299,Binh Duong,110913,N,S
+7234,TC CHTP Le Van Tho-299,Binh Duong,0,N,S
+7235,KTC TPTS-CN CF KV DONG NAI-299,Binh Duong,111025,N,S
+7236,TC CHTP Thao Dien,HCM,111115,N,S
+7237,KTC TPTS-CN CF BINH DUONG-299,Binh Duong,111129,N,S
+7238,TC CHTP Hiep Binh-299,Binh Duong,111220,N,S
+7239,TC CHTP Phu loi-299,Binh Duong,111223,N,S
+7240,TC CHTP Tran Quang Khai-299,Binh Duong,120202,N,S
+7241,TC CHTP Nguyen Bieu-299,Binh Duong,120215,N,S
+7242,TC CHTP Binh Trung Dong-299,Binh Duong,120315,N,S
+7243,TC CHTP Nguyen Van Qua-299,Binh Duong,120406,N,S
+7244,TC CHTP Cho Cau-299,Binh Duong,120406,N,S
+7245,TC CHTP Nguyen Oanh-299,Binh Duong,120508,N,S
+7246,TC CHTP Nguyen Cuu Dam-299,Binh Duong,120508,N,S
+7247,TC CHTP Lam Van Ben-299,Binh Duong,120605,N,S
+7248,TC CHTP Pham Phu Thu-299,Binh Duong,120605,N,S
+7249,TC CHTP Tran Xuan Soan-299,Binh Duong,120628,N,S
+7250,TC CHTP Cach Mang Thang 8-299,Binh Duong,120807,N,S
+7251,TC CHTP Do Xuan Hop-299,Binh Duong,120926,N,S
+7252,TC CHTP Binh Phu-299,Binh Duong,120928,N,S
+7253,TC CHTP To Ngoc Van-299,Binh Duong,0,N,S
+7254,TC CHTP Vinh Hoi-299,Binh Duong,121128,N,S
+7255,TC CHTP Pham The Hien-299,Binh Duong,121130,N,S
+7256,TC CHTP Phu Xuan-299,Binh Duong,130326,N,S
+7257,TC CHTP Pham Van Chieu-299,Binh Duong,130426,N,S
+7258,TC CHTP Pham Huu Lau-299,Binh Duong,130426,N,S
+7259,TC CHTP Le Van Quoi-299,Binh Duong,130524,N,S
+7260,TC CHTP Tan Ky Tan Quy-299,Binh Duong,130529,N,S
+7261,TC CHTP Quang Trung-299,Binh Duong,130605,N,S
+7262,TC CHTP Huynh Tan Phat-299,Binh Duong,130605,N,S
+7263,TC CHTP Nha Be-299,Binh Duong,130517,N,S
+7264,TC CHTP Huong Lo 2-299,Binh Duong,0,N,S
+7265,TC CHTP Truong Tho-299,Binh Duong,130912,N,S
+7266,TC CHTP Long Phuoc-299,Binh Duong,131007,N,S
+7267,TC CHTP Kha Van Can-299,Binh Duong,131007,N,S
+7268,TC CHTP Binh Quoi-299,Binh Duong,131007,N,S
+7269,TC CHTP Bach Dang-299,Binh Duong,131111,N,S
+7270,TC CHTP KCN Tan Thoi Hiep-299,Binh Duong,131118,N,S
+7271,KTC TPTS-CN CF CAN THO-299,Binh Duong,131118,N,S
+7272,TC CHTP KCN Hiep Phuoc-299,Binh Duong,131118,N,S
+7273,TC CHTP KCN Long Hau-299,Binh Duong,131118,N,S
+7274,TC CHTP Le Van Viet-299,Binh Duong,131118,N,S
+7275,TC CHTP KCN Vinh Loc-299,Binh Duong,131118,N,S
+7276,TC CHTP Tay Bac-299,Binh Duong,131118,N,S
+7277,TC CHTP Truong Cong Dinh-299,Binh Duong,131120,N,S
+7278,KTC TPTS-CN CF LONG HAU-299,Binh Duong,131204,N,S
+7279,TC CHTP Ton That Thuyet-299,Binh Duong,131204,N,S
+7280,TC CHTP To Hien Thanh-299,Binh Duong,131204,N,S
+7281,TC CHTP Truong Dinh Hoi-299,Binh Duong,140317,N,S
+7282,TC CHTP Quoc Lo 50-299,Binh Duong,140407,N,S
+7283,TC CHTP Tay Thanh-299,Binh Duong,140407,N,S
+7299,Dat hang tap trung CoopFood,HCM,140630,N,S
+8011,TTPP-Song Than (KM),Binh Duong,80612,N,S
+8012,Kho Giao Thang 801,Binh Duong,80612,N,S
+8021,TTPP-Mien Tay (KM),Hau Giang,91215,N,S
+8022,Kho TPTS-Mien Tay,Hau Giang,200901,N,S
+8081,TTPP (NO TAX),Binh Duong,140411,N,S
+8881,Kho TC TTPP-Hang TPTS,Di an-Binh Duong,80627,N,S
+195,NKD-Co.opMart Ha Long,Quang Ninh,140910,N,S
+292,NKD-CH Co.opFood Au Co,HCM,140910,N,S
+293,CH Co.opFood Nguyen Duy Trinh,HCM,140910,Y,S
+895,Trung chuyen Ha Long-195,Binh Duong,140910,N,S
+792,TC CHCF Au Co-100,Binh Duong,140910,N,S
+793,TC CHCF Nguyen Duy Trinh-100,Binh Duong,140910,N,S
+803,Trung Tam Phan Phoi Mien Bac,Bac Ninh,140923,N,W
+294,CH Co.opFood 53 Pham Van Chieu,HCM,140924,Y,S
+794,TC CHCF 53 Pham Van Chieu-100,Binh Duong,140924,N,S
+295,CH Co.opFood 37 Phan Huy Ich,HCM,141104,Y,S
+795,TC CHCF 37 Phan Huy Ich-100,Binh Duong,141104,N,S
+197,Co.opMart Cao Lanh,Dong Thap,141110,Y,S
+897,Trung chuyen Cao Lanh-197,Binh Duong,141110,N,S
+896,Trung chuyen Foodcosa-196,Binh Duong,141110,N,S
+196,Co.opMart Foodcosa,Ho Chi Minh,141112,Y,S
+296,Co.opFood 249 Luong Dinh Cua,HCM,141201,Y,S
+796,TC CF 249 Luong Dinh Cua-100,Binh Duong,141201,N,S
+297,NKD-CH Co.opFood Hang Xanh,HCM,141210,N,S
+797,TC CHCF Hang Xanh-100,Binh Duong,141210,N,S
+198,KSD-Co.opMart Hiep Thanh,HCM,141223,N,S
+302,KSD-Co-opXtra Tan Phong,"Q7, HCM",141223,N,S
+199,Co.opMart Ben Tre,Ben Tre,141229,Y,S
+902,TC Co-opXtra Tan Phong-302,Binh Duong,150314,N,S
+798,TC CHCF Hung Phu-100,Binh Duong,150518,N,S
+501,KSD-Co.opMart An Nhon,Binh Dinh,150519,Y,S
+5011,Trung chuyen An Nhon-501,Binh Duong,150519,N,S
+502,Co.opMart Bac Giang,"BacGiang,T.Bac Giang",150519,Y,S
+5021,Trung chuyen Bac Giang-502,Binh Duong,150519,N,S
+503,Co.opMart Binh Duong 2,Binh Duong,150519,Y,S
+5031,Trung chuyen Binh Duong 2-503,Binh Duong,150519,N,S
+504,Co.opMart Dak Nong,"TP GiaNghia,Dak Nong",150519,Y,S
+5041,Trung chuyen Dak Nong-504,Binh Duong,150519,N,S
+8031,TTPP-Mien Bac (KM),Bac Ninh,150520,N,S
+400,CH CF 306 Nguyen Thai Son,HCM,150520,Y,S
+401,CH Co.opFood Binh Gia,HCM,150520,Y,S
+4001,TC CHCF 306Nguyen Thai Son-100,Binh Duong,150520,N,S
+4011,TC CHCF Binh Gia-100,Binh Duong,150520,N,S
+402,CH Co.opFood Thong Nhat,HCM,150622,Y,S
+4021,TC CHCF Thong Nhat-100,Binh Duong,150622,N,S
+505,Co.opMart Ly Thuong Kiet,HCM,150622,Y,S
+5051,TChuyen Ly Thuong Kiet-505,Binh Duong,150622,N,S
+403,CH CoopFood 203 Vo Thanh Trang,HCM,150721,Y,S
+4031,TC CHCF 203 Vo Thanh Trang-100,Binh Duong,150721,N,S
+404,CH Co.opFood Pham The Hien 2,HCM,150828,Y,S
+4041,TC CHCF Pham The Hien 02-100,Binh Duong,150828,N,S
+405,CH Co.opFood 418 Tran Van Giau,HCM,150903,Y,S
+4051,TC CHCF 418 Tran Van Giau-100,Binh Duong,150903,N,S
+506,Co.opMart Van Thanh,HCM,150930,Y,S
+406,CH Co.opFood 85 Nguyen Son,HCM,151006,Y,S
+407,KSD-CH Co.opFood Phu Thuan,HCM,151006,N,S
+4061,TC CHCF 85 Nguyen Son-100,Binh Duong,151006,N,S
+4071,TC CHCF Phu Thuan-100,Binh Duong,151006,N,S
+507,Co.opMart La Gi,Binh Thuan,151120,Y,S
+5071,Trung chuyen La Gi-507,Binh Duong,151120,N,S
+508,Co.opMart Nguyen Binh,HCM,151127,Y,S
+408,NKD-CH Co.opFood Thai Son,HCM,151209,N,S
+4081,TC CHCF Thai Son-100,Binh Duong,151231,N,S
+509,Co.opMart Vinh Loc B,"Binh Chanh,HCM",151221,Y,S
+510,Co.opMart Do Van Day,"Hoc Mon, HCM",151221,Y,S
+511,Co.opMart Hiep Thanh,HCM,151221,Y,S
+512,Co.opMart Quang Binh,"TP.DongHoi,QuangBinh",151228,Y,S
+5121,Trung chuyen Quang Binh-512,Binh Duong,151228,N,S
+513,Co.opMart Ben Luc,Long An,160310,Y,S
+5131,Trung chuyen Ben Luc-513,Binh Duong,160310,N,S
+517,Co.opMart Sa Dec,Dong Thap,160616,Y,S
+514,Co.opMart Tan An,Long An,160616,Y,S
+515,Co.opMart Ba Ria,"TP.Ba Ria,T.BRVT",160616,Y,S
+516,Co.opMart Binh Duong,"TP.TDMot,T.BinhDuong",160616,Y,S
+5141,Trung chuyen Tan An-514,Binh Duong,160616,N,S
+5151,Trung chuyen Ba Ria-515,Binh Duong,160616,N,S
+5161,Trung chuyen Binh Duong-516,Binh Duong,160616,N,S
+409,CH Co.opFood Hiep Binh Chanh,HCM,160709,Y,S
+410,CH Co.opFood Cat Lai,HCM,160709,Y,S
+4091,TC CHCF Hiep Binh Chanh-100,Binh Duong,160709,N,S
+4101,TC CHCF Cat Lai-100,Binh Duong,160709,N,S
+518,Co.opMart Go Cong,Tien Giang,160712,Y,S
+699,CoopFood Nhuong Quyen,HCM,160819,Y,S
+6991,NKD-CH NQ Thanh Da,Binh Duong,160819,N,S
+625,CH Co.opFood Conic,"H.Binh Chanh,HCM",160819,Y,S
+626,CH Co.opFood CC Binh Phu 1,HCM,160917,Y,S
+627,KSD-CH Co.opFood06 TruongGiaMo,HCM,160819,N,S
+6271,TC CH CFood 6 Truong GiaMo-100,Binh Duong,160819,N,S
+6251,TC CH Co.opFood Conic-100,Binh Duong,160819,N,S
+6261,TC CH CFood CC Binh Phu 1-100,Binh Duong,160819,N,S
+6990,TC CH Nhuong Quyen-100,Binh Duong,160824,N,S
+69002,CH NQ Nguyen Khoai,HCM,160923,Y,S
+68001,CH DTM Test,HCM,161003,Y,S
+69003,CH NQ Nguyen Luong Bang,HCM,161010,Y,S
+628,NKD-CH Co.opFood 15 Le VanViet,HCM,161011,N,S
+629,CH Co.opFood 7 Le Thi Ha,HCM,161011,Y,S
+6281,TC CH CFood 15 Le Van Viet-100,HCM,161011,N,S
+6291,TC CH CFood 7 Le Thi Ha-100,HCM,161011,N,S
+69004,CH NQ Do Dac,HCM,161014,Y,S
+8000,CTY TNHH MTV KHOVAN SAIGONCOOP,HCM,161026,N,S
+8001,Kho Ve Tinh Duong So 9,Binh Duong,161026,N,S
+88001,TC Kho Ve Tinh Duong So 9,Binh Duong,161027,N,S
+69005,CH NQ Chung Cu Dao Duy Tu,HCM,161101,Y,S
+630,CH Co.opFood CC Petroland,HCM,161107,Y,S
+6301,TC CH CFood CC Petroland-100,HCM,161107,N,S
+631,CH Co.opFood 239Duong Dinh Hoi,HCM,161107,Y,S
+6311,TC CH CFood Duong Dinh Hoi-100,HCM,161107,N,S
+519,Co.opMart Thot Not,Can Tho,161107,Y,S
+632,CH Co.opFood CC Carina,HCM,161122,Y,S
+6321,TC CH CFood CC Carina-100,HCM,161122,N,S
+69006,CH NQ Ngo Quyen,HCM,161124,Y,S
+1311,CF Vung Tau Plaza,BRVT,161129,Y,S
+69007,NKD-CH NQ Nam Long,HCM,161201,N,S
+633,CH Co.opFood 397 Phan Huy Ich,HCM,161206,Y,S
+6331,TC CH CFood397Phan Huy Ich-100,HCM,161206,N,S
+634,CH Co.opFood 13 Le Van Thinh,HCM,161206,Y,S
+6341,TC CH CFood 13Le Van Thinh-100,HCM,161206,N,S
+635,CH Co.opFood Hoang Dieu 2,HCM,161206,Y,S
+6351,TC CH CFood Hoang Dieu 2-100,HCM,161206,N,S
+636,CH Co.opFood Flora,HCM,161206,Y,S
+6361,TC CH CFood Flora DXH-100,HCM,161206,N,S
+637,CH Co.opFood An Khang,HCM,161213,Y,S
+6371,TC CH CFood An Khang-100,HCM,161213,N,S
+69008,CH NQ Tay Hoa,HCM,161214,Y,S
+69009,NKD-CH NQ 23/9,HCM,161221,N,S
+304,Co-opXtra Tan Phong,"Q.7, HCM",161223,Y,S
+303,Cty TNHH Saigoncoop-FairPrice,HCM,161224,N,S
+1181,CF P.Thiet Hai Thuong Lan Ong,Phan Thiet,161226,Y,S
+520,Co.opMart Chau Doc,An Giang,161226,Y,S
+5201,Trung chuyen Chau Doc-520,An Giang,161226,N,S
+521,KSD-Co.opMart Duc Pho,Quang Ngai,161227,Y,S
+1871,KSD-CF Can Tho-Tran Viet Chau,Can Tho,161227,N,S
+1872,KSD-CF Can Tho-Le Hong Phong,Can Tho,161227,N,S
+904,TC Co-opXtra Tan Phong-304,Binh Duong,161227,N,S
+69010,CH NQ Nguyen Van Cong,HCM,0,Y,S
+69011,CH NQ Ca Mau-TTMS Hoang Gia,Ca Mau,170111,Y,S
+638,CH Co.opFood Nguyen Luong Bang,"Q.7,HCM",170112,Y,S
+6381,TC CH CFood Ng Luong Bang-100,"Q.7,HCM",170112,N,S
+639,CH Co.opFood Green Hills,HCM,170316,Y,S
+640,CH Co.opFood CC Son Ky,HCM,170316,Y,S
+641,CH Co.opFood Saigon Town,HCM,170316,Y,S
+642,CH Co.opFood 372 No Trang Long,HCM,170316,Y,S
+643,CH Co.opFood D20 Vo Van Van,HCM,170316,Y,S
+6391,TC CH CFood Green Hills-100,HCM,170316,N,S
+6401,TC CH CFood CC Son Ky-100,HCM,170316,N,S
+6411,TC CH CFood Saigon Town-100,HCM,170316,N,S
+6421,TC CH CFood No Trang Long-100,HCM,170316,N,S
+6431,TC CH CFood D20 Vo Van Van-100,HCM,170316,N,S
+1182,CF Phan Thiet-Tu Van Tu,Binh Thuan,170404,Y,S
+1873,KSD-CF Can Tho-Tay Do,Can Tho,170419,N,S
+644,CH Co.opFood 174 Phan Van Hon,"Q12, HCM",170421,Y,S
+6441,TC CH CF 174 Phan Van Hon-100,Binh Duong,170421,N,S
+1312,CF Vung Tau Center,Ba Ria Vung Tau,170421,Y,S
+5211,Trung chuyen Duc Pho-521,Binh Duong,170428,N,S
+645,CH Co.opFood Long Truong,"Q9, TP.HCM",170504,Y,S
+6451,TC CH CF Long Truong-100,Binh Duong,170504,N,S
+69012,KSD-CH NQ Bong Sao,"P5,Q8, HCM",170522,N,S
+646,NKD-CH Co.opFood Chung Cu 8X,HCM,170605,N,S
+6461,TC CH CF Chung Cu 8X-100,Binh Duong,170605,N,S
+522,Co.opMart Ca Mau,Ca Mau,170615,Y,S
+5221,Trung chuyen Ca Mau-522,Binh Duong,170615,N,S
+69013,CH NQ Binh Hung,HCM,170615,Y,S
+69014,CH NQ Linh Xuan,"Thu Duc, HCM",170615,Y,S
+69015,NKD-CH NQ Le Van Luong,HCM,170615,N,S
+5061,Trung chuyen Van Thanh-506,Binh Duong,170616,N,S
+5081,Trung chuyen Nguyen Binh-508,Binh Duong,170616,N,S
+5091,Trung chuyen Vinh Loc B-509,Binh Duong,170616,N,S
+5101,Trung chuyen Do Van Day-510,Binh Duong,170616,N,S
+5111,Trung chuyen Hiep Thanh-511,Binh Duong,170616,N,S
+5171,Trung chuyen Sa Dec-517,Binh Duong,170616,N,S
+5181,Trung chuyen Go Cong-518,Binh Duong,170616,N,S
+5191,Trung chuyen Thot Not-519,Binh Duong,170616,N,S
+1874,KSD-CF Can Tho-Mau Than,Can Tho,170619,N,S
+804,Kho Ve Tinh Binh Duong,"TX Di An,Binh Duong",170620,N,W
+8041,Kho TC Ve Tinh Binh Duong,"TX Di An,Binh Duong",170620,N,S
+8042,Kho TC Ve Tinh Binh Duong PPTT,"TX Di An,Binh Duong",170620,N,S
+647,CH Co.opFood Conic Sky,HCM,170624,Y,S
+648,CH Co.opFood Tam Binh,HCM,170624,Y,S
+6471,TC CH Co.opFood Conic Sky-100,Binh Duong,170624,N,S
+6481,TC CH Co.opFood Tam Binh-100,Binh Duong,170624,N,S
+523,Co.opMart Buon Ho,Dak Lak,170627,Y,S
+5231,Trung chuyen Buon Ho-523,Binh Duong,170627,N,S
+1875,KSD-CF CanTho-Tran Quang Dieu,Can Tho,170704,N,S
+649,NKD-CH Co.opFood Phong Phu,"Binh Chanh,HCM",170704,N,S
+650,NKD-CH Co.opFood Tan Tru,HCM,170704,N,S
+6491,TC CH Co.opFood Phong Phu-100,Binh Duong,170704,N,S
+6501,TC CH Co.opFood Tan Tru-100,Binh Duong,170704,N,S
+651,NKD-CH Co.opFood Cho Thu Duc,HCM,170718,N,S
+6511,TC CH Co.opFood Cho ThuDuc-100,Binh Duong,170718,N,S
+305,Co-opXtra Su Van Hanh,HCM,170721,Y,S
+69016,CH NQ Duong Quang Ham,HCM,170725,Y,S
+524,Co.opMart Dong Van Cong,HCM,170801,Y,S
+5241,Trung chuyen Dong Van Cong-524,Binh Duong,170801,N,S
+652,CH Co.opFood Linh Chieu,HCM,170809,Y,S
+6521,TC CH Co.opFood Linh Chieu-100,Binh Duong,170809,N,S
+1313,NKD-CF Vung Tau 30/4,Ba Ria Vung Tau,160811,N,S
+805,TTPP Saigonco.op-Kho hang U&I,Binh Duong,170811,N,W
+653,CH Co.opFood Bui The My 31,HCM,170815,Y,S
+654,CH Co.opFood Krista,HCM,170815,Y,S
+655,CH Co.opFood Lang Tang Phu,HCM,170815,Y,S
+656,CH Co.opFood Gia Phu,HCM,170815,Y,S
+657,CH Co.opFood Vanh Dai,HCM,170815,Y,S
+658,CH Co.opFood Man Thien 280,HCM,170815,Y,S
+659,CH Co.opFood Linh Dong,HCM,170815,Y,S
+6531,TC CH Co.opFood Bui The My 31,Binh Duong,170815,N,S
+6541,TC CH Co.opFood Krista-100,Binh Duong,170815,N,S
+6551,TC CH Co.opFood Lang Tang Phu,Binh Duong,170815,N,S
+6561,TC CH Co.opFood Gia Phu-100,Binh Duong,170815,N,S
+6571,TC CH Co.opFood Vanh Dai-100,Binh Duong,170815,N,S
+6581,TC CH Co.opFood Man Thien 280,Binh Duong,170815,N,S
+6591,TC CH Co.opFood Linh Dong,Binh Duong,170815,N,S
+661,CH Co.opFood Dinh Bo Linh 81,HCM,170901,Y,S
+662,NKD-CH Co.opFood Vinh Loc B,HCM,170901,N,S
+663,KSD-CH CoopFood LeDinhCan 191A,HCM,170901,N,S
+664,NKD-CH CFood Tinh Lo 10-1226,HCM,170901,N,S
+665,CH Co.opFood Tinh Lo 15-1031,HCM,170901,Y,S
+666,NKD-CH Co.opFood 29 Duong 457,HCM,170901,N,S
+667,NKD-CH Co.opFood Thach Lam 177,HCM,170901,N,S
+668,NKD-CH CoopFood Huong Lo 2-515,"Q.Binh Tan, HCM",170901,N,S
+669,CH Co.opFood Phuoc Kien,HCM,170901,Y,S
+670,NKD-CH CFood Au Duong Lan-299,HCM,170901,N,S
+671,CH Co.opFood Quoc Lo 22-726,HCM,170901,Y,S
+672,NKD-CH Co.opFood Tan Thong Hoi,HCM,170901,N,S
+6611,TC CH CF Dinh Bo Linh 81,Binh Duong,170901,N,S
+6621,TC CH Co.opFood Vinh Loc B,Binh Duong,170901,N,S
+6631,TC CH CF Le Dinh Can 191A,Binh Duong,170901,N,S
+6641,TC CH CF Tinh Lo 10-1226,Binh Duong,170901,N,S
+6651,TC CH CF Tinh Lo 15-1031,Binh Duong,170901,N,S
+6661,TC CH Co.opFood 29 Duong 457,Binh Duong,170901,N,S
+6671,TC CH Co.opFood Thach Lam 177,Binh Duong,170901,N,S
+6681,TC CH Co.opFood Huong Lo 2-515,Binh Duong,170901,N,S
+6691,TC CH Co.opFood Phuoc Kien,Binh Duong,170901,N,S
+6701,TC CH CF Au Duong Lan-299,Binh Duong,170901,N,S
+6711,TC CH Co.opFood Quoc Lo 22-726,Binh Duong,170901,N,S
+6721,TC CH Co.opFood Tan Thong Hoi,Binh Duong,170901,N,S
+69017,CH NQ Pham Viet Chanh,HCM,170918,Y,S
+8051,TTPP-U&I (KM),Binh Duong,170919,N,S
+525,Co.opMart Nam Dinh,Nam Dinh,170927,Y,S
+526,Co.opMart Tan Chau,Tay Ninh,170927,Y,S
+527,Co.opMart Chu Se,"H.Chu Se,Gia Lai",170927,Y,S
+5251,Trung chuyen Nam Dinh-525,Binh Duong,170927,N,S
+5261,Trung chuyen Tan Chau-526,Binh Duong,170927,N,S
+5271,Trung chuyen Chu Se-527,Binh Duong,170927,N,S
+673,NKD-CH CFood Duong Dinh Hoi 64,HCM,171004,N,S
+674,CH Co.opFood Man Thien 126A,HCM,171004,Y,S
+6731,TC CH CFood Duong Dinh Hoi 64,Binh Duong,171004,N,S
+6741,TC CH Co.opFood Man Thien 126A,Binh Duong,171004,N,S
+69018,NKD-CH NQ Nguyen Bieu,HCM,171004,N,S
+1314,CF Vung Tau Phoenix,BRVT,171013,Y,S
+675,NKD-CH CFood Dinh Phong Phu 37,"Q9, TP.HCM",171016,N,S
+6751,TC CH CFood Dinh Phong Phu 37,Binh Duong,171016,N,S
+528,Co.opMart Kon Tum,"TP.Kon Tum,Kon Tum",171017,Y,S
+5281,Trung chuyen Kon Tum-528,Binh Duong,171017,N,S
+69019,CH NQ 134A Nguyen Thai Son,HCM,171021,Y,S
+529,Co.opMart Tan Thanh,"H.Tan Thanh,T.BR-VT",171025,Y,S
+5291,Trung chuyen Tan Thanh-529,Binh Duong,171025,N,S
+530,Co.opMart Chu Van An,HCM,171026,Y,S
+5301,Trung chuyen Chu Van An-530,Binh Duong,171026,N,S
+676,CH Co.opFood Ba Diem,HCM,171102,Y,S
+678,CH Co.opFood Dong Bac,HCM,171102,Y,S
+679,NKD-CH CFood Le Trong Tan 47A,HCM,171102,N,S
+680,CH Co.opFood Nguyen Cuu Phu 21,"Binh Chanh,HCM",171102,Y,S
+681,NKD-CH Co.opFood Khanh Hoi,HCM,171102,N,S
+682,NKD-CH CFood Phan Huy Ich 105,HCM,171102,N,S
+6761,TC CH Co.opFood Ba Diem,Binh Duong,171102,N,S
+6771,TC Co.opFood Huynh Tan Phat591,Binh Duong,171201,N,S
+6781,TC CH Co.opFood Dong Bac,Binh Duong,171102,N,S
+6791,TC CH CFood Le Trong Tan 47A,Binh Duong,171102,N,S
+6801,TC CH CFood Nguyen Cuu Phu 21,Binh Duong,171102,N,S
+6811,TC CH Co.opFood Khanh Hoi,Binh Duong,171102,N,S
+6821,TC CH CFood Phan Huy Ich 105,Binh Duong,171102,N,S
+531,Co.opMart Ha Tien,Kien Giang,171103,Y,S
+5311,Trung chuyen Ha Tien-531,Binh Duong,171103,N,S
+8043,Kho Ve Tinh (NO TAX),"TX Di An, Binh Duong",171113,N,S
+9202,NKD-Co.opFood Khu Vuc Dong Nai,"BienHoa,Dong Nai",171116,N,S
+920,Headoffice-CF Khu vuc Dong Nai,"Bien Hoa, Dong Nai",171116,N,O
+9201,TC Co.opFood Khu Vuc Dong Nai,Binh Duong,171117,N,S
+910,Head office-Co.opFood Mien Bac,"Trung,Thanh Xuan,HN",171117,N,O
+9101,TC Co.opFood Mien Bac,Binh Duong,171117,N,S
+9102,Co.opFood Mien Bac,"Trung,ThanhXuan,HN",171117,Y,S
+9103,CH Co.opFood HN Bac Ha C14,"Van,Nam Tu Liem,HNoi",171117,Y,S
+905,TC Co-opXtra Su Van Hanh-305,Binh Duong,171127,N,S
+9203,NKD-CH CFood Pham Van Thuan123,"TP.Bien Hoa,Dong Nai",171130,N,S
+677,NKD-CH CFood Huynh Tan Phat591,HCM,171130,N,S
+683,CH Co.opFood Xuan Hiep,HCM,171130,Y,S
+684,CH Co.opFood Tan Quy Tay,"H.Binh Chanh,HCM",171130,Y,S
+685,CH Co.opFood An Lac,"Binh Tan, HCM",171130,Y,S
+686,NKD-CH Co.opFood Quy Duc,HCM,171201,N,S
+687,CH CFood Tran Van Giau 5C13,"Binh Chanh, HCM",171201,Y,S
+688,CH CFood Nguyen Duy Trinh 192,"Q2, HCM",171201,Y,S
+689,CH Co.opFood Minh Duc,HCM,171202,Y,S
+6831,TC CH Co.opFood Xuan Hiep,Binh Duong,171201,N,S
+6841,TC CH Co.opFood Tan Quy Tay,Binh Duong,171201,N,S
+6851,TC CH Co.opFood An Lac,Binh Duong,171201,N,S
+6861,TC CH Co.opFood Quy Duc,Binh Duong,171201,N,S
+6871,TC CFood Tran Van Giau 5C13,Binh Duong,171201,N,S
+6881,TC CFood Nguyen Duy Trinh 192,Binh Duong,171201,N,S
+6891,TC CH Co.opFood Minh Duc,Binh Duong,171202,N,S
+690,CH Co.opFood Xom Chieu,HCM,171204,Y,S
+9104,CH Co.opFood HN Trieu Khuc,"Q.Thanh Xuan, Ha Noi",171204,Y,S
+9105,CH Co.opFood HN Bac Ha Tower,Ha Noi,171204,Y,S
+6901,TC CH Co.opFood Xom Chieu,Binh Duong,171204,N,S
+69020,CH CoopFood NQ QN Tang Bat Ho,Binh Dinh,171206,Y,S
+69021,CH NQ Au Duong Lan,HCM,171209,Y,S
+69022,CH NQ Mai Van Vinh,HCM,171209,Y,S
+69023,CH NQ Nguyen Cong Tru,HCM,171209,Y,S
+69024,CH NQ Binh Loi,HCM,171209,Y,S
+691,CH Co.opFood Tan Quy,HCM,171215,Y,S
+6911,TC CH Co.opFood Tan Quy,Binh Duong,171215,N,S
+532,Co.opMart Cai Lay,Tien Giang,171219,Y,S
+533,Co.opMart Hong Ngu,"TP.Hong Ngu,DongThap",171219,Y,S
+5321,Trung chuyen Cai Lay-532,Binh Duong,171219,N,S
+5331,Trung chuyen Hong Ngu-533,Binh Duong,171219,N,S
+9302,CH Co.opFood Thu Khoa Huan 437,Binh Duong,171221,Y,S
+930,Head office-CF KV Binh Duong,"Thu Dau 1,Binh Duong",171222,N,O
+9301,TC Co.opFood Binh Duong,Binh Duong,171222,N,S
+1183,CF P.Thiet Vo Van Kiet,Binh Thuan,180102,Y,S
+692,CH Co.opFood Lien Khu 5-6,"Q.Binh Tan, HCM",180108,Y,S
+693,CH Co.opFood Tam Binh 196,HCM,180108,Y,S
+694,CH Co.opFood Thang Long 31,HCM,180625,Y,S
+695,CH Co.opFood Le Loi 60,HCM,180108,Y,S
+6921,TC CH Co.opFood Lien Khu 5-6,Binh Duong,180108,N,S
+6931,TC CH Co.opFood Tam Binh 196,Binh Duong,180108,N,S
+6941,TC CH Co.opFood Thang Long 31,Binh Duong,180625,N,S
+6951,TC CH Co.opFood Le Loi 60,Binh Duong,190108,N,S
+9204,NKD-CH CFood Nguyen Ai Quoc 17,Dong Nai,180108,N,S
+69025,CH NQ Thanh Thai,HCM,180109,Y,S
+69026,CH NQ Pho Quang,HCM,180109,Y,S
+8013,Phong Y (SLL),HCM,180110,N,S
+696,CH CFood Hoang Anh Thanh Binh,"Binh,P.Tan Hung,Q7",180123,Y,S
+6961,TC CH CF Hoang Anh Thanh Binh,Binh Duong,180123,N,S
+9303,CH Co.opFood Le Hong Phong,Binh Duong,180123,Y,S
+102,NKD-Co.opMart Tran Hung Dao,HCM,0,N,S
+104,KSD-Co.opMart Dam Sen,HCM,0,N,S
+105,KSD-CoopMart Nguyen Dinh Chieu,HCM,0,N,S
+106,KSD-Co.opMart Dinh Tien Hoang,HCM,0,N,S
+107,KSD-Co.opMart Phu Lam,HCM,0,N,S
+108,KSD-Co.opMart Thang Loi,HCM,0,N,S
+109,KSD-Co.opMart Phu My Hung,HCM,0,N,S
+110,KSD-Co.opMart Nguyen Kiem,HCM,0,N,S
+111,KSD-Co.opMart Xa Lo Ha Noi,HCM,0,N,S
+115,KSD-Co.opMart BMC,TP. Ho Chi Minh,0,N,S
+116,KSD-Co.opMart An Dong,Ho Chi Minh City,0,N,S
+117,KSD-Co.opMart Ly Thuong Kiet,TP. Ho Chi Minh,60506,N,S
+126,KSD-Co.opMart Ben Tre,Tinh Ben Tre,81023,N,S
+129,KSD-Co.opMart Long An,Tinh Long An,90901,N,S
+143,KSD-Co.opMart Binh Duong,Binh Duong,100917,N,S
+182,NKD-Co.opMart Nguyen Xi,HCM,111101,Y,S
+192,KSD-Co.opMart Hiep Thanh,Ho Chi Minh,131226,N,S
+200,Co.op Ga Saigon,HCM,20515,N,S
+241,NKD-CH Co.opFood Nguyen Bieu,HCM,120215,N,S
+1281,NKD-CN CHTP Hoa Minh-DaNang,Da Nang,121221,N,S
+1521,KSD-CN CHTP KCN Tan Thoi Hiep,HCM,111230,N,S
+1581,KSD-CN CHTP KCN Tan Binh-Tloi,CNIII-TanPhu-HCM,111116,N,S
+1591,KSD-CN CHTP KCN Hiep Phuoc-PMH,Nha be-HCM,101228,N,S
+1592,KSD-CN CHTP KCN Long Hau-PMH,Long An,110903,N,S
+1611,NKD-CN CHTP Linh Trung 1-XLHN,HCM,111115,N,S
+1612,KSD-CN CHTP Le Van Viet-XLHN,TP.HCM,121030,N,S
+1651,KSD-CN CHTP KCN Vinh Loc-BMC,HCM,120404,N,S
+1751,KSD-CN CHTP Tay Bac-CuChi,HCM,121214,N,S
+697,CH CoopFood Trinh Dinh Thao 31,HCM,180305,Y,S
+698,CH Co.opFood Tan Huong 262,HCM,180305,Y,S
+2000,NKD-CH Co.opFood Tay Lan,HCM,180305,N,S
+2001,CH Co.opFood Tan Thanh Dong,"H.Cu Chi, HCM",180305,Y,S
+6971,TC CH CF Trinh Dinh Thao 31,Binh Duong,180305,N,S
+6981,TC CH CF Tan Huong 262,Binh Duong,180305,N,S
+20001,TC CH Co.opFood Tay Lan,Binh Duong,180305,N,S
+20011,TC CH CF Tan Thanh Dong,Binh Duong,180305,N,S
+2002,CH CFood An Duong Vuong 451,HCM,180315,Y,S
+2003,CH Co.opFood Le Thi Ha 2,HCM,180315,Y,S
+2004,CH CFood Pham The Hien 2649,HCM,180315,Y,S
+2005,CH Co.opFood Ho Van Long 70,HCM,180315,Y,S
+20021,TC CH CF An Duong Vuong 451,Binh Duong,180315,N,S
+20031,TC CH Co.opFood Le Thi Ha 2,Binh Duong,180315,N,S
+20041,TC CH CF Pham The Hien 2649,Binh Duong,180315,N,S
+20051,TC CH Co.opFood Ho Van Long 70,Binh Duong,180315,N,S
+69027,CH NQ Binh Duong,"TX Di An, Binh Duong",180315,Y,S
+9205,CH CFood BH Nguyen Van Tien,Dong Nai,180319,Y,S
+9206,CH Co.opFood BH Ho Hoa,Dong Nai,180319,Y,S
+1876,KSD-CF CanTho-Ng Van Cu noidai,Can Tho,180320,N,S
+2006,CH Co.opFood La Xuan Oai 138,"Q9, HCM",180320,Y,S
+20061,TC CH CFood La Xuan Oai 138,Binh Duong,180320,N,S
+1613,Co.opMart Xa Lo Ha Noi (SLL),HCM,180402,N,S
+3011,Co-opXtra Linh Trung (SLL),HCM,180402,N,S
+69028,NKD-CH NQ Hong Lac,HCM,180406,N,S
+2007,CH Co.opFood Tran Trong Cung65,"Q7, HCM",180423,Y,S
+2008,CH Co.opFood CC Hoang Quan,HCM,180423,Y,S
+2009,CH Co.opFood Go Dua 112,HCM,180519,Y,S
+20071,TC CH CFood Tran Trong Cung 65,Binh Duong,180423,N,S
+20081,TC CH Co.opFood CC Hoang Quan,Binh Duong,180423,N,S
+2010,CH Co.opFood CC IDICO,"Tan Phu, HCM",180509,Y,S
+20101,TC CH Co.opFood CC IDICO,Binh Duong,180509,N,S
+20091,TC CH Co.opFood Go Dua 112,Binh Duong,180423,N,S
+2011,CH Co.opFood CC LACASA,HCM,180518,Y,S
+20111,TC CH Co.opFood CC LACASA,Binh Duong,180518,N,S
+9106,CH Co.opFood HN Khuong Trung,"Q.ThanhXuan,Tp.HaNoi",180518,Y,S
+9107,CH Co.opFood HN Phung Khoang,"Q.NamTuLiem,TP.HaNoi",180518,Y,S
+9108,CH Co.opFood HN Van Khe,TP.Ha Noi,180518,Y,S
+9109,CH Co.opFood HN The Vesta,TP.Ha Noi,180518,Y,S
+2012,NKD-CH Co.opFood Binh Thoi,HCM,180524,N,S
+20121,TC CH Co.opFood Binh Thoi,Binh Duong,180524,N,S
+9207,NKD-CH Co.opFood BH Ly Van Sam,"TP.Bien Hoa,Dong Nai",180524,N,S
+9110,CH Co.opFood HN Green Stars,"Q.BacTuLiem,TP.HaNoi",180524,Y,S
+2013,NKD-CH Co.opFood Duong So 6,HCM,180604,N,S
+2014,CH Co.opFood Kenh Tan Hoa,"Q.Tan Phu, HCM",180604,Y,S
+2015,CH CFood Truong Phuoc Phan 169,"Binh Tan, HCM",180604,Y,S
+2016,CH Co.opFood Ha Huy Giap 302,HCM,180604,Y,S
+20131,TC CH Co.opFood Duong So 6,Binh Duong,180604,N,S
+20141,TC CH Co.opFood Kenh Tan Hoa,Binh Duong,180604,N,S
+20151,TC CH CF Truong Phuoc Phan 169,Binh Duong,180604,N,S
+20161,TC CH CFood Ha Huy Giap 302,Binh Duong,180604,N,S
+9208,CH Co.opFood BH Tran Thi Hoa,"TP.Bien Hoa,Dong Nai",180604,Y,S
+940,Head office-CF Khu Vuc Can Tho,"Q.NinhKieu,TP.CanTho",180619,N,O
+9401,TC Co.opFood Khu Vuc Can Tho,Binh Duong,180619,N,S
+9402,CH Co.opFood Khu Vuc Can Tho,"Q.NinhKieu,TP.CanTho",180619,Y,S
+9403,NKD-CHCF CT Ng Thi Minh Khai07,"Q.NinhKieu,TP.CanTho",180619,N,S
+9404,NKD-CH CFood CT Pham Hung 171,TP.Can Thho,180619,N,S
+2017,CH Co.opFood Tan Son Nhi 387,HCM,180625,Y,S
+2018,CH Co.opFood Savimex,"Q7, HCM",180625,Y,S
+2019,CH Co.opFood Phan Van Hon 151,"Q.Hoc Mon, HCM",180625,Y,S
+2020,CH Co.opFood Nguyen Van Kha198,"H.Cu Chi, HCM",180625,Y,S
+20171,TC CH CoopFood Tan Son Nhi 387,Binh Duong,170625,N,S
+20181,TC CH Co.opFood Savimex,Binh Duong,180625,N,S
+20191,TC CH CFood Phan Van Hon 151,Binh Duong,180625,N,S
+20201,TC CH CFood Nguyen Van Kha 198,Binh Duong,180625,N,S
+69029,CH NQ Dream Home,HCM,180625,Y,S
+69030,NKD-CH NQ 556 Nguyen Kiem,HCM,180627,N,S
+534,Co.opMart Go Dau,Tay Ninh,180704,Y,S
+535,Co.opMart Tan Chau An Giang,"TX Tan Chau,An Giang",180704,Y,S
+5341,Trung chuyen Go Dau-534,Binh Duong,180704,N,S
+5351,Trung chuyen Tan Chau An Giang,Binh Duong,180704,N,S
+2021,CH Co.opFood CC 4S Linh Dong,"P.Linh Dong,Thu Duc",180709,Y,S
+20211,TC CH CoopFood CC 4S Linh Dong,Binh Duong,180709,N,S
+9304,NKD-CH Co.opFood BD An Binh,Binh Duong,180709,N,S
+69031,CH NQ Nguyen Van Dau,HCM,180710,Y,S
+9406,CH CF CT Nguyen Van Cu Noi Dai,"Ninh Kieu,TP.Can Tho",180711,Y,S
+9405,CH Co.opFood CT Tran Viet Chau,Can Tho,180711,Y,S
+9407,NKD-CH Co.opFood CT Mau Than,Can Tho,180711,N,S
+9408,CH Co.opFood CT Tay Do,"Thanh, CaiRang, CTho",180711,Y,S
+9409,CH Co.opFood CT Le Hong Phong,"Q.Binh Thuy,Can Tho",180711,Y,S
+9410,NKD-CHCFood CT Tran Quang Dieu,"Binh Thuy, Can Tho",180711,N,S
+69032,CH NQ Sky 9,"P.Phu Huu, Q9, HCM",180712,Y,S
+69033,CH NQ Ton Dan,HCM,180727,N,S
+2022,NKD-CH Co.opFood Tan Son,HCM,180727,N,S
+2023,CH Co.opFood DS2 Truong Tho,HCM,180727,Y,S
+2024,NKD-CH Co.opFood Vuon Lai,HCM,180727,N,S
+2025,CH Co.opFood Tan Xuan,HCM,180727,Y,S
+2026,NKD-CH CFood Phan Sao Nam 87,HCM,180727,N,S
+20221,TC CH Co.opFood Tan Son,Binh Duong,180727,N,S
+20231,TC CH Co.opFood DS2 Truong Tho,Binh Duong,180727,N,S
+20241,TC CH Co.opFood Vuon Lai,Binh Duong,180727,N,S
+20251,TC CH Co.opFood Tan Xuan,Binh Duong,180727,N,S
+20261,TC CH CoopFood Phan Sao Nam 87,Binh Duong,180727,N,S
+9305,NKD-CH Co.opFood BD Phu Loi,Binh Duong,180727,N,S
+9111,NKD-CH CFood HN Vinata Tower,"Cau Giay,TP.Ha Noi",180815,N,S
+9112,NKD-CH Co.opFood HN Gemek,TP.Ha Noi,180815,N,S
+9113,NKD-CH CFood HN Nguyen DucCanh,"Q.HoangMai,TP.Ha Noi",180815,N,S
+9114,CH Co.opFood HN Anland,TP.Ha Noi,180815,Y,S
+9115,CH Co.opFood HN Ecohome,"Bac Tu Liem, Ha Noi",180815,Y,S
+9116,CH Co.opFood HN Nghia Do,"Co Nhue 1,BacTuLiem",180815,Y,S
+2027,CH Co.opFood Tang Nhon Phu 26,HCM,180822,Y,S
+2028,CH Co.opFood KDC Thanh Nien,HCM,180822,Y,S
+2029,CH Co.opFood CC Dat Gia,"Thu Duc, HCM",180822,Y,S
+2030,CH CFood DS3 Hiep Binh Phuoc,HCM,180822,Y,S
+20271,TC CH CFood Tang Nhon Phu 26,Binh Duong,180822,N,S
+20281,TC CH Co.opFood KDC Thanh Nien,Binh Duong,180822,N,S
+20291,TC CH Co.opFood CC Dat Gia,Binh Duong,180822,N,S
+20301,TC CH CF DS3 Hiep Binh Phuoc,Binh Duong,180822,N,S
+9306,NKD-CH Co.opFood BD CMT8,Binh Duong,180822,N,S
+69034,NKD-CH NQ Masteri Millennium,HCM,180830,N,S
+69035,NKD-CH NQ Phu Huu,HCM,180830,N,S
+536,Co.opMart Duyen Hai,Tra Vinh,180910,Y,S
+537,Co.opMart Viet Tri,"Viet Tri, T.Phu Tho",180910,Y,S
+538,Co.opMart Phuoc Dong,"H.Go Dau, T.Tay Ninh",180910,Y,S
+5361,Trung chuyen Duyen Hai-536,Binh Duong,180910,N,S
+5371,Trung chuyen Viet Tri-537,Binh Duong,180910,N,S
+5381,Trung chuyen Phuoc Dong-538,Binh Duong,180910,N,S
+69036,NKD-CH NQ Nguyen Anh Thu,"Q12, HCM",180914,N,S
+69037,NKD-CH NQ Thao Dien Riverside,HCM,170926,N,S
+69038,CH NQ Phuoc Binh,HCM,180926,Y,S
+69039,CH NQ Tang Long,HCM,180926,Y,S
+69040,CH NQ Dong Tang Long,"Q9, HCM",181002,Y,S
+2031,CH Co.opFood Tinh Lo 43,HCM,181003,Y,S
+2032,CH CoopFood Nguyen Thi Soc 153,"Hoc Mon, HCM",181003,Y,S
+20311,TC CH Co.opFood Tinh Lo 43,Binh Duong,181003,N,S
+20321,TC CH CFood Nguyen Thi Soc 153,Binh Duong,181003,N,S
+9209,NKD-CH CF BH Hoang Ba Bich 113,"TP.Bien Hoa,Dong Nai",181003,N,S
+9210,CH CFood BH Huynh Van Nghe 17,"TP.Bien Hoa,Dong Nai",181003,Y,S
+9211,NKD-CH CFood BH Dong Khoi 98,"TP.Bien Hoa,Dong Nai",181003,N,S
+806,Trung tam phan phoi BinhDuong2,"Binh Hoa,Thuan An,BD",181015,N,W
+8061,TTPP-Coopfood (KM),"Binh Hoa,Thuan An,BD",181015,N,S
+8882,Kho TC TPTS (Transfer CNPT),Binh Duong,181022,N,S
+2033,CH Co.opFood Ton Dan,HCM,181026,Y,S
+20331,TC CH Co.opFood Ton Dan,Binh Duong,181026,N,S
+2034,CH Co.opFood Hau Lan,HCM,181026,Y,S
+20341,TC CH Co.opFood Hau Lan,Binh Duong,181026,N,S
+9307,NKD-CH CF BD Nguyen Tri Phuong,Binh Duong,181026,N,S
+69041,CH NQ Binh Hoa,HCM,181103,Y,S
+539,Co.opMart Phan Ri Cua,Binh Thuan,181103,Y,S
+540,Co.opMart Can Giuoc,Long An,181103,Y,S
+5391,Trung chuyen Phan Ri Cua-539,Binh Duong,181103,N,S
+5401,Trung chuyen Can Giuoc-540,Binh Duong,181103,N,S
+2035,CH Co.opFood Tran Van Danh 12,HCM,181105,Y,S
+2036,NKD-CH Co.opFood CC Florita,HCM,181105,N,S
+2037,NKD-CH CFood Phan Van Tri 399,HCM,181105,N,S
+2038,NKD-CH Co.opFood Phan Anh 173,"Q.Binh Tan, HCM",181105,N,S
+2039,CH CoopFood Nguyen Huu Tien 11,"Q.Tan Phu, HCM",181105,Y,S
+2040,CH Co.opFood Ho Van Long 30,"Q.Binh Tan, HCM",181105,Y,S
+2041,CH Co.opFood Thanh Loc 17,"Q12, HCM",181105,Y,S
+2042,CH Co.opFood Nguyen Xi 247,HCM,181105,Y,S
+20351,TC CH CFood Tran Van Danh 12,Binh Duong,181105,N,S
+20361,TC CH Co.opFood CC Florita,Binh Duong,181105,N,S
+20371,TC CH CFood Phan Van Tri 399,Binh Duong,181105,N,S
+20381,TC CH Co.opFood Phan Anh 173,Binh Duong,181105,N,S
+20391,TC CH CFood Nguyen Huu Tien 11,Binh Duong,181105,N,S
+20401,TC CH Co.opFood Ho Van Long 30,Binh Duong,181105,N,S
+20411,TC CH Co.opFood Thanh Loc 17,Binh Duong,181105,N,S
+20421,TC CH Co.opFood Nguyen Xi 247,Binh Duong,181105,N,S
+9117,NKD-CH CoopFood HN Vinaconex 3,"Q.NamTuLiem, Ha Noi",181115,N,S
+9118,NKD-CH Co.opFood HN OCT5,"Q.BacTuLiem, Ha Noi",181115,N,S
+306,Co-opXtra Pham Van Dong,"Q.Thu Duc, HCM",181121,Y,S
+906,TC Co-opXtra Pham Van Dong-306,Binh Duong,181121,N,S
+307,Co.opXtra Bien Hoa,Dong Nai,181121,N,S
+907,TC Co-opXtra Bien Hoa-307,Binh Duong,181121,N,S
+2043,CH Co.opFood CC Belleza,HCM,181126,Y,S
+2044,CH Co.opFood Tan Chanh Hiep 10,"Q12, HCM",181126,Y,S
+20431,TC CH Co.opFood CC Belleza,Binh Duong,181127,N,S
+20441,TC CH CFood Tan Chanh Hiep 10,Binh Duong,181127,N,S
+69042,KSD-CH NQ 556 Nguyen Kiem,HCM,181127,N,S
+69043,CH NQ Song Huong,HCM,181127,Y,S
+69044,NKD-CH NQ 203 Le Duc Tho,HCM,181127,N,S
+9119,NKD-CH CFood HN FLC Pham Hung,TP.Ha Noi,181127,N,S
+9120,CH Co.opFood HN VP2 Linh Dam,TP.Ha Noi,181127,Y,S
+9121,NKD-CH CFood HN Tu Hiep Plaza,"H.Thanh Tri,TP.HaNoi",181127,N,S
+541,Co.opMart Binh Tan 2,"Q.Binh Tan, HCM",181129,Y,S
+542,Co.opMart Binh Thuy,Can Tho,181129,Y,S
+543,Co.opMart Chau Thanh Tay Ninh,"H.ChauThanh,Tay Ninh",181129,Y,S
+544,KSD-Co.opMart Phan Van Hon,"Q.12, HCM",181129,N,S
+5411,Trung chuyen Binh Tan 2-541,Binh Duong,181129,N,S
+5421,Trung chuyen Binh Thuy-542,Binh Duong,181129,N,S
+5431,TChuyen Chau Thanh Tay Ninh,Binh Duong,181129,N,S
+5441,Trung chuyen Phan Van Hon-544,Binh Duong,181129,N,S
+5451,Trung chuyen Tieu Can-545,Binh Duong,181129,N,S
+545,Co.opMart Tieu Can,Tra Vinh,181129,Y,S
+546,Co.opMart Dong Phu,"H.DongPhu,Binh Phuoc",181129,Y,S
+5461,Trung chuyen Dong Phu-546,Binh Duong,181129,N,S
+2045,CH Co.opFood DS12 Truong Tho,HCM,181211,Y,S
+2046,CH Co.opFood CC Eastern,"Q9, HCM",181211,Y,S
+2047,CH Co.opFood CC Dragon Hill,"H.Nha Be, HCM",181211,Y,S
+20451,TC CH CoopFood DS12 Truong Tho,Binh Duong,181211,N,S
+20461,TC CH Co.opFood CC Eastern,Binh Duong,181211,N,S
+20471,TC CH Co.opFood CC Dragon Hill,Binh Duong,181211,N,S
+9212,NKD-CH Co.opFood BH Phuc Lam,Dong Nai,181211,N,S
+69045,CH NQ Duong 48 Thu Duc,"Q.Thu Duc,HCM",181212,Y,S
+69046,NKD-CH NQ Hiep Binh Phuoc,HCM,181212,N,S
+9122,NKD-CH CFood HN C2 Xuan Dinh,"Q.BacTuLiem, Ha Noi",181212,N,S
+9123,NKD-CH Co.opFood HN Valencia,"Q.LongBien,TP.Ha Noi",181220,N,S
+9124,CH Co.opFood HN The K-Park,Ha Noi,181220,Y,S
+9125,NKD-CH CF HN Thang LongVictory,Ha Noi,181220,N,S
+69047,NKD-CH NQ Tan Mai,HCM,181221,N,S
+547,Co.opMart Son Tra,"Q.Son Tra, Da Nang",181226,Y,S
+5471,Trung chuyen Son Tra-547,Binh Duong,181226,N,S
+2048,CH Co.opFood CC Him Lam Phu An,"PhuocLongA, Q9, HCM",181227,Y,S
+2049,NKD-CH Co.opFood Tan Hoa Dong,HCM,181227,N,S
+2050,CH Co.opFood Duong Thi Muoi465,"Q12, HCM",181227,Y,S
+2051,CH Co.opFood Binh An,"P.Binh An, Q2, HCM",181227,Y,S
+20481,TC CH CFood CC Him Lam Phu An,Binh Duong,181227,N,S
+20491,TC CH Co.opFood Tan Hoa Dong,Binh Duong,181227,N,S
+20501,TC CH CFood Duong Thi Muoi 465,Binh Duong,181227,N,S
+20511,TC CH Co.opFood Binh An,Binh Duong,181227,N,S
+9213,NKD-CH CF BH Hoang Ba Bich 373,"TP.Bien Hoa,Dong Nai",181227,N,S
+9126,CH Co.opFood HN Kim Van Kim Lu,"Q.Hoang Mai,Ha Noi",190104,Y,S
+9127,NKD-CH CFood HN An Binh City,"Q.BacTuLiem, Ha Noi",190104,N,S
+9128,NKD-CH Co.opFood HN Dai Thanh,"H.ThanhTri,Tp Ha Noi",190117,N,S
+69048,CH NQ Dinh Tien Hoang 45,HCM,190213,Y,S
+9308,NKD-CH CFood BD Le Van Tach154,Binh Duong,190214,N,S
+2052,CH Co.opFood Phan Xich Long 37,HCM,190214,Y,S
+2053,NKD-CH Co.opFood Man Thien 96,"Q9, HCM",190214,N,S
+2054,NKD-CH CFood Tinh Lo 15-1034,HCM,190214,N,S
+2055,CH Co.opFood Nguyen Anh Thu699,HCM,190214,Y,S
+2056,CH Co.opFood Vuon Lai 192,HCM,190214,Y,S
+2057,CH CoopFood Nguyen Thi Dang367,"Q12, HCM",190214,Y,S
+2058,NKD-CH Co.opFood Le Van Chi 69,"Q.Thu Duc, HCM",190214,N,S
+2059,CH Co.opFood Tran Van Quang 86,HCM,190214,Y,S
+2060,CH Co.opFood Tinh Lo 8-628,"H.Cu Chi, HCM",190214,Y,S
+20521,TC CH CFood Phan Xich Long 37,Binh Duong,190214,N,S
+20531,TC CH Co.opFood Man Thien 96,Binh Duong,190214,N,S
+20541,TC CH CoopFood Tinh Lo 15-1034,Binh Duong,190214,N,S
+20551,TC CH CFood Nguyen Anh Thu 699,Binh Duong,190214,N,S
+20561,TC CH Co.opFood Vuon Lai 192,Binh Duong,190214,N,S
+20571,TC CH CFood Nguyen Thi Dang367,Binh Duong,190214,N,S
+20581,TC CH Co.opFood Le Van Chi 69,Binh Duong,190214,N,S
+20591,TC CH CFood Tran Van Quang 86,Binh Duong,190214,N,S
+20601,TC CH Co.opFood Tinh Lo 8-628,Binh Duong,190214,N,S
+69049,NKD-CH NQ Phuoc Long,HCM,190216,N,S
+9129,NKD-CH CFood HN Hong KongTower,"Q.Dong Da,TP Ha Noi",190304,N,S
+9130,CH Co.opFood HN Athena Complex,"Q.Nam Tu Liem,Ha Noi",190304,Y,S
+8883,Kho TPTS Dong goi,Di An-Binh Duong,190305,N,S
+69050,NKD-CH NQ Nguyen Truong To,HCM,190306,N,S
+9131,CH CFood HN Thanh Ha CIENCO 5,"H.Thanh Oai,Ha Noi",190318,Y,S
+9132,NKD-CH Co.opFood HN Dinh Cong,"Q.Hoang Mai, Ha Noi",190318,N,S
+69051,CH NQ Dang Thuy Tram,HCM,190321,Y,S
+69052,NKD-CHNQ CD Cong Nghe Nong Lam,Binh Duong,190322,N,S
+69053,CH NQ Citi Gate,HCM,190328,Y,S
+69054,NKD-CH NQ Merita,HCM,190402,N,S
+2061,KSD-CH Co.opFood Cu Xa Phu Lam,HCM,190405,N,S
+2062,NKD-CH CFood Pham Dang Giang73,"Q.Binh Tan, HCM",190405,N,S
+2063,CH Co.opFood Phan Van Han 182,HCM,190405,Y,S
+9133,NKD-CH CFood HN Ngoai GiaoDoan,"Q.Bac Tu Liem,Ha Noi",190405,N,S
+9134,CH CFood HN Xuan Mai Duong Noi,"Q.Ha Dong,TP.Ha Noi",190405,Y,S
+9309,CH Co.opFood BD Vinh Phu 41,"TX ThuanAn,BinhDuong",190405,Y,S
+20611,TC CH Co.opFood Cu Xa Phu Lam,Binh Duong,190405,N,S
+20621,TC CH CFood Pham Dang Giang 73,Binh Duong,190405,N,S
+20631,TC CH CoopFood Phan Van Han182,Binh Duong,190405,N,S
+69055,NKD-CH NQ Xa Lo Ha Noi,HCM,190408,N,S
+69056,CH NQ Topaz City,HCM,190408,Y,S
+69057,NKD-CH NQ Cau Ong Dau,"Q.Thu Duc, TP.HCM",190408,N,S
+2064,CH Co.opFood Van Kiep 31,HCM,190417,Y,S
+20641,TC CH Co.opFood Van Kiep 31,Binh Duong,190417,N,S
+9135,NKD-CH Co.opFood HN Dich Vong,"DichVong,CauGiay,HN",190422,N,S
+9136,NKD-CH CFood HN 89 Phung Hung,TP.Ha Noi,190422,N,S
+2065,CH CoopFood Truong Van Thanh68,"Q9, HCM",190426,Y,S
+20651,TC CH CFood Truong Van Thanh68,Binh Duong,190426,N,S
+69058,CH NQ Khu Dan Cu Dai Phuc,"Binh Chanh, HCM",190426,Y,S
+9310,NKD-CH CFood BD Be Van Dan 44,Binh Duong,190426,N,S
+69059,NKD-CH NQ 183 Nguyen Van Dau,HCM,190506,N,S
+69060,CH NQ Trung Tuyen City,"Q12, HCM",190509,Y,S
+9311,CH Co.opFood BD Xuyen A 209,Binh Duong,190509,Y,S
+9411,CH CFood CT Tran Hoang Na 151,"Q.Ninh Kieu,Can Tho",190509,Y,S
+9137,NKD-CH CFood HN South Building,"Q.Hoang Mai, Ha Noi",190517,N,S
+69061,CH NQ Fuji Gia Binh,HCM,190518,Y,S
+9138,CH Co.opFood HN Thai Ha CT4,Ha Noi,190528,Y,S
+9139,CH Co.opFood HN Thai Ha HH,Ha Noi,190528,Y,S
+69062,CH NQ Ben Hai,HCM,190530,Y,S
+9312,NKD-CH CFood BD Nguyen Trai 87,Binh Duong,190530,N,S
+2066,CH Co.opFood Tam Ha 64,HCM,190530,Y,S
+2067,NKD-CH CFood Bui Huu Nghia 121,HCM,190530,N,S
+20661,TC CH Co.opFood Tam Ha 64,Binh Duong,190530,N,S
+20671,TC CH CFood Bui Huu Nghia 121,Binh Duong,190530,N,S
+69063,NKD-CH NQ Nguyen Tuyen,"Q2, HCM",190613,N,S
+9313,CH CFood BD Tran Hung Dao 325,Binh Duong,190613,Y,S
+9412,NKD-CH CFood CT CC Tay Nguyen,"Q.Cai Rang,Can Tho",190613,N,S
+69064,CH NQ The Pegasuite PhuongViet,HCM,190620,Y,S
+69065,NKD-CH NQ Bac Hai,HCM,190620,N,S
+2068,NKD-CH CFood NguyenThiDinh 556,"Q2, HCM",190622,N,S
+2069,CH Co.opFood Le Van Luong 1187,"H.Nha Be, HCM",190624,Y,S
+2070,CH Co.opFood No Trang Long 235,HCM,190624,Y,S
+2071,NKD-CH Co.opFood Bau Cat 302,HCM,190624,N,S
+2072,CH CFood CC Hoang Kim The Gia,HCM,190624,Y,S
+2073,CH Co.opFood Lien Khu 4-5,"Q.Binh Tan, HCM",190624,Y,S
+20681,TC CH CFood Nguyen Thi Dinh556,Binh Duong,190426,N,S
+20691,TC CH CFood Le Van Luong 1187,Binh Duong,190624,N,S
+20701,TC CH CFood No Trang Long 235,Binh Duong,190426,N,S
+20721,TC CH CFood CC Hoang KimTheGia,Binh Duong,190624,N,S
+20731,TC CH Co.opFood Lien Khu 4-5,Binh Duong,190624,N,S
+9314,CH Co.opFood BD Ngo Thi Nham82,Binh Duong,190624,Y,S
+9413,CH CFood CT Nguyen Van Cu 227,Can Tho,190624,Y,S
+20711,TC CH Co.opFood Bau Cat 302,Binh Duong,190624,N,S
+69066,CH NQ Trung Son,"H.Binh Chanh, HCM",190627,Y,S
+69067,NKD-CH NQ An Phu Dong,HCM,190627,N,S
+9140,NKD-CH CFood HN Nguyen Van Cu,"Q.LongBien,TP.Ha Noi",190701,N,S
+2074,CH Co.opFood Le Thi Hoa 240,HCM,190708,Y,S
+2075,CH Co.opFood Do Xuan Hop 729,HCM,190708,Y,S
+2076,CH Co.opFood Tran Thi Co 292,HCM,190708,Y,S
+20741,TC CH Co.opFood Le Thi Hoa 240,Binh Duong,190708,N,S
+20751,TCCH Co.opFood Do Xuan Hop 729,Binh Duong,190708,N,S
+20761,TCCH Co.opFood Tran Thi Co 292,Binh Duong,190708,N,S
+9315,CH Co.opFood BD KDC Viet Sing,Binh Duong,190708,Y,S
+809,Kho TPTS-Mien Bac,Bac Ninh,190717,N,S
+69068,CH NQ Pho Dong,"Q2, HCM",190717,Y,S
+69069,CH NQ Bong Sao,HCM,190722,Y,S
+2077,CH Co.opFood Lam Van Ben 22,HCM,190731,Y,S
+2078,CH CFood Nguyen Thai Binh 349,HCM,190731,Y,S
+20771,TC CH Co.opFood Lam Van Ben 22,Binh Duong,190731,N,S
+20781,TC CH CF Nguyen Thai Binh 349,Binh Duong,190731,N,S
+9141,CH Co.opFood HN Mandarin,Ha Noi,190731,Y,S
+9316,NKD-CH Co.opFood BD Nhi Dong,Binh Duong,190731,N,S
+69070,CH NQ Gia Hoa,HCM,190802,Y,S
+2079,CH Co.opFood DS9 Linh Tay,HCM,190802,Y,S
+20791,TC CH Co.opFood DS9 Linh Tay,Binh Duong,190802,N,S
+2080,CH Co.opFood Tran Van Muoi 12,"Hoc Mon, HCM",190809,Y,S
+20801,TC CH CoopFood Tran Van Muoi12,Binh Duong,190809,N,S
+69071,CF NQ Stown Tower,"Q.Thu Duc, HCM",190819,Y,S
+548,Co.opXtra Premium,HCM,190821,Y,S
+549,Co.opMart Hoang Van Thu,HCM,190821,Y,S
+5481,Trung chuyen Xtra Premium-548,Binh Duong,190821,N,S
+5491,Trung chuyen Hoang Van Thu,Binh Duong,190821,N,S
+9414,CH Co.opFood CT Tran Vinh Kiet,"Ninh Kieu, Can Tho",190829,Y,S
+9317,NKD-CH CF BD Thu Khoa Huan 106,Binh Duong,190829,N,S
+69072,CF NQ Thu Thiem,HCM,190829,Y,S
+550,KSD-Co.opMart Era Town,HCM,190830,N,S
+9142,NKD-CH CFood HN Nguyen Khuyen,"Thanh Tri, Ha Noi",190902,N,S
+9143,CH Co.opFood HN VP6 Linh Dam,"Hoang Mai, Ha Noi",190902,Y,S
+9144,CH Co.opFood HN Sakura,Ha Noi,190902,Y,S
+9415,NKD-CH CF CT Bui Quang TrinhG8,"Q.Cai Rang, Can Tho",190909,N,S
+9502,CH Co.opFood LA Tan Kim,Long An,190913,Y,S
+9501,TC CH Co.opFood Long Hau,Binh Duong,190913,N,S
+950,Head office-CH CFood Long Hau,Long An,190913,N,O
+551,CONG TY TNHH MTV MARFOUR,Ha Noi,190914,N,S
+552,Co.opMart SCA - VICTORIA,Ha Noi,190914,Y,S
+553,Co.opMart SCA - GOLDSILK,Ha Noi,190914,Y,S
+554,Co.opMart SCA - GOLDENSILK,Ha Noi,190914,Y,S
+555,Co.opMart SCA - LONG BIEN,Ha Noi,190914,Y,S
+5521,Trung chuyen SCA VICTORIA-552,Binh Duong,190914,N,S
+5531,Trung chuyen SCA GOLDSILK-553,Binh Duong,190914,N,S
+5541,Trungchuyen SCA GOLDENSILK-554,Binh Duong,190914,N,S
+5551,Trung chuyen SCA LONG BIEN-555,Binh Duong,190914,N,S
+2081,NKD-CH CoopFood Le Thi Hong 40,HCM,190923,N,S
+20811,TC CH Co.opFood Le Thi Hong 40,Binh Duong,190923,N,S
+69073,CH NQ Ben Hai,HCM,190927,Y,S
+2082,CH Co.opFood An Loc,HCM,191002,Y,S
+2083,KSD-CH CoopFood LeVanKhuong551,"HiepThanh,Q12,HCM",191002,N,S
+20821,TC CH Co.opFood An Loc,Binh Duong,191002,N,S
+20831,TC CH CFood Le Van Khuong 551,Binh Duong,191002,N,S
+556,Co.opMart To Ky,HCM,191003,Y,S
+5561,Trung chuyen To Ky-556,Binh Duong,191003,N,S
+557,Co.opMart SCA - Tay Ninh,Tay Ninh,191003,Y,S
+5571,Trung chuyen SCA Tay Ninh-557,Binh Duong,191003,N,S
+2085,CH Co.opFood Phan Van Hon 285,HCM,191004,Y,S
+2086,CH Co.opFood Truong Chinh 22,"Q12, HCM",191004,Y,S
+2087,CH Co.opFood Vision,"Q.Binh Tan, HCM",191004,Y,S
+2088,CH Co.opFood Tam Phu,"Q.Thu Duc, HCM",191004,Y,S
+2089,CH Co.opFood Sunview,Q.Thu Duc,191004,Y,S
+2090,KSD-CH Co.opFood Tan Son Nhi,"Q.Tan Phu, HCM",191004,N,S
+2091,CH Co.opFood Him Lam Cho Lon,HCM,191004,Y,S
+20841,TC CH Co.opFood Son Ky 1,Binh Duong,191004,N,S
+2084,KSD-CH Co.opFood Son Ky 1,HCM,191004,N,S
+20851,TC CH CFood Phan Van Hon 285,Binh Duong,191004,N,S
+20861,TC CH CFood Truong Chinh 22,Binh Duong,191004,N,S
+20871,TC CH Co.opFood Vision,Binh Duong,191004,N,S
+20881,TC CH Co.opFood Tam Phu,Binh Duong,191004,N,S
+20891,TC CH Co.opFood Sunview,Binh Duong,191004,N,S
+20901,TC CH Co.opFood Tan Son Nhi,Binh Duong,191004,N,S
+20911,TC CH CoopFood Him Lam Cho Lon,Binh Duong,191004,N,S
+558,CONG TY TNHH MTV MARFIVE,HCM,191004,N,S
+559,Co.opMart SCA - Au Co,HCM,191008,Y,S
+560,Co.opMart SCA - Pham Van Chieu,HCM,191008,Y,S
+561,Co.opMart SCA - Cao Thang,HCM,191008,Y,S
+5591,Trung chuyen SCA Au Co-559,Binh Duong,191008,N,S
+5601,Tchuyen SCA Pham Van Chieu-560,Binh Duong,191008,N,S
+5611,Trung chuyen SCA Cao Thang-561,Binh Duong,191008,N,S
+9145,NKD-CH Co.opFood HN Vu Thanh,Ha Noi,191014,N,S
+562,Co.opMart Thoai Son,An Giang,191022,Y,S
+563,Co.opMart Tan Bien Tay Ninh,"H.Tan Bien, Tay Ninh",191022,Y,S
+564,Co.opMart Duong Minh Chau,"Minh Chau, Tay Ninh",191022,Y,S
+5621,Trung chuyen Thoai Son-562,Binh Duong,191022,N,S
+5631,TChuyen Tan Bien Tay Ninh-563,Binh Duong,191020,N,S
+5641,TChuyen Duong Minh Chau-564,Binh Duong,191022,N,S
+9318,CH Co.opFood BD Tan Lap 55,"TX Di An,Binh Duong",191022,Y,S
+2092,CH Co.opFood Dong Tang Long,"Q9, HCM",191023,Y,S
+20921,TC CH Co.opFood Dong Tang Long,Binh Duong,191023,N,S
+4200,CTY TNHH MTV CO.OP FINELIFE,HCM,191118,N,O
+4201,FINELIFE FOODSTORE HA DO,HCM,191118,Y,S
+42011,TC FINELIFE HA DO-4201,Binh Duong,191118,N,S
+9503,CH Co.opFood Long Hau,"H.Can Giuoc, Long An",191119,Y,S
+2093,CH Co.opFood CC Linh Tay Tower,HCM,191125,Y,S
+20931,TC CH CFood CC Linh Tay Tower,Binh Duong,191125,N,S
+9146,CH Co.opFood HN V7 The Vesta,Ha Noi,191125,Y,S
+9147,NKD-CH Co.opFood HN Duong Buoi,"Q.Ba Dinh, Ha Noi",191204,N,S
+9148,CH Co.opFood HN Tecco Skyville,"H.Thanh Tri, Ha Noi",191204,Y,S
+565,Co.opMart Tam Binh,HCM,191207,Y,S
+5651,Trung chuyen Tam Binh-565,Binh Duong,191207,N,S
+2094,CH Co.opFood 9 View,HCM,191209,Y,S
+2095,CH Co.opFood Thu Thiem Garden,HCM,191209,Y,S
+20941,TC CH Co.opFood 9 View,Binh Duong,191209,N,S
+20951,TC CH CFood Thu Thiem Garden,Binh Duong,191209,N,S
+566,Co.opMart Cu M'gar,"H,Cu M'gar,Dak Lak",191210,Y,S
+5661,Trung Chuyen Cu M'gar-566,Binh Duong,191210,N,S
+9149,CH Co.opFood HN Hateco,"Q.NamTuLiem, Ha Noi",191217,Y,S
+9150,CH Co.opFood HN Lucky House,Ha Noi,191221,Y,S
+2096,CH CoopFood Tran Quoc Thao 171,HCM,191228,Y,S
+20961,TC CH CFood Tran Quoc Thao 171,Binh Duong,191228,N,S
+9416,CH Co.opFood CT Vo Truong Toan,Can Tho,191228,Y,S
+9151,CH Co.opFood HN Dai Dong,"Q.Hoang Mai, Ha Noi",191231,Y,S
+9152,CH Co.opFood HN Ho Tung Mau,"Liem, Ha Noi",191231,Y,S
+9153,CH Co.opFood HN Nhan Chinh,"Q.Thanh Xuan, Ha Noi",191231,Y,S
+9154,CH CFood HN Ngoai Giao Doan 1,"Bac Tu Liem, Ha Noi",191231,Y,S
+9155,NKD-CH Co.opFood HN Thanh Ha 1,"H.Thanh Oai, Ha Noi",191231,N,S
+9156,NKD-CH Co.opFood HN Thanh Ha 2,"H.Thanh Oai, Ha Noi",191231,N,S
+9157,NKD-CH Co.opFood HN Thanh Ha 3,"H.Thanh Oai, Ha Noi",191231,N,S
+4202,FLIFE FOODSTORE RIVIERA POINT,HCM,191231,Y,S
+4203,FLIFE SUPERMARKET SAIGON MIA,HCM,191231,Y,S
+42021,TC FL FOODSTORE RIVIERA POINT,Binh Duong,191231,N,S
+42031,TC FL SUPER MARKET SAIGON MIA,Binh Duong,191231,N,S
+9158,CH Co.opFood HN Vinh Hung,Ha Noi,200106,Y,S
+567,Co.opMart Ha Dong,"Q.Ha Dong, Ha Noi",200108,Y,S
+5671,Trung chuyen Ha Dong-567,Binh Duong,200108,N,S
+2097,CH Co.opFood Pham Van Hai 91,HCM,200304,Y,S
+20971,TC CH CoopFood Pham Van Hai 91,Binh Duong,200304,N,S
+9319,CH CFood BD KDC Hiep Thanh III,Binh Duong,200304,Y,S
+9159,CH Co.opFood HN New Horizon,Ha Noi,200305,Y,S
+9160,CH Co.opFood HN Roman Plaza,"Nam Tu Liem, Ha Noi",200305,Y,S
+568,CONG TY TNHH MARQUIS,HCM,200309,N,S
+9320,NKD-CH Co.opFood BD Nguyen Du,"TX Thuan An, BDuong",200327,N,S
+9321,NKD-CH CF BD NguyenThai Hoc139,"TX Di An, Binh Duong",200327,N,S
+2098,CH Co.opFood The Garden Mall,HCM,200526,Y,S
+20981,TC CH CoopFood The Garden Mall,Binh Duong,200525,N,S
+9161,CH Co.opFood HN Eurowindow,Ha Noi,200624,Y,S
+9162,NKD-CH Co.opFood HN Homeland,"Q.LongBien, Ha Noi",200624,N,S
+9417,NKD-CH Co.opFood CT CMT8 133,Can Tho,200624,N,S
+9418,CH Co.opFood CT Tran Nam Phu,"Q.NinhKieu, Can Tho",200624,Y,S
+807,Cty TNHH MTV TP SGCoop-Kho Van,HCM,200626,N,S
+2099,KSD-CH CoopFoodNguyenVanDau137,HCM,200706,N,S
+2100,CH Co.opFood Le Van Luong 302,HCM,200706,Y,S
+2101,CH Co.opFood Dat Moi 272,HCM,200706,Y,S
+2102,CH Co.opFood To Ngoc Van 478,"Q.12, HCM",200730,Y,S
+20991,TC CH CF Nguyen Van Dau 137,Binh Duong,200706,N,S
+21001,TC CH CFood Le Van Luong 302,Binh Duong,200706,N,S
+21011,TC CH Co.opFood Dat Moi 272,Binh Duong,200706,N,S
+21021,TC CH CoopFood To Ngoc Van 478,Binh Duong,200706,N,S
+9419,CH Co.opFood CT Tran Phu 71,Can Tho,200715,Y,S
+2103,CH Co.opFood Phu Huu,HCM,200727,Y,S
+2104,CH Co.opFood Cay Tram,HCM,200727,Y,S
+2105,CH Co.opFood Tinh Lo 15-275,"H.Cu Chi, HCM",200727,Y,S
+2106,CH Co.opFood CC Calla Garden,HCM,200727,Y,S
+21031,TC CH Co.opFood Phu Huu,Binh Duong,200727,N,S
+21041,TC CH Co.opFood Cay Tram,Binh Duong,200727,N,S
+21051,TC CH Co.opFood Tinh Lo 15-275,Binh Duong,200727,N,S
+21061,TC CH CoopFood CC Calla Garden,Binh Duong,200727,N,S
+2107,CH Co.opFood Nguyen Kiem,HCM,200813,Y,S
+21071,TC CH Co.opFood Nguyen Kiem,Binh Duong,200813,N,S
+9163,NKD-CHCF HYEcoparkCentralLake2,"H.Van Giang,Hung Yen",200821,N,S
+9164,NKD-CH CF HY EcoparkGrandPark2,"Van Giang, Hung Yen",200821,N,S
+2108,CH Co.opFood Chung cu Ehome S,HCM,200826,Y,S
+2109,CH Co.opFood Le Duc Tho 269,HCM,200826,Y,S
+2110,CH CFood Nguyen Thi Bup 101M,"Q12, HCM",200826,Y,S
+21081,TC CH CoopFood Chungcu Ehome S,Binh Duong,200826,N,S
+21091,TC CH Co.opFood Le Duc Tho 269,Binh Duong,200826,N,S
+21101,TC CH CFood Nguyen Thi Bup101M,Binh Duong,200826,N,S
+9322,CH CF BD CC Samsora Riverside,Binh Duong,200826,Y,S
+8023,Kho TPTS-Mien Tay (KM),Hau Giang,200901,N,S
+2111,CH Co.opFood Pham Nhu Tang 11,HCM,200907,Y,S
+2112,CH CFood CC Lovera Khang Dien,"Binh Chanh, HCM",210327,Y,S
+21111,TC CH CFood Pham Nhu Tang 11,Binh Duong,200907,N,S
+21121,TC CH CF CC Lovera Khang Dien,Binh Duong,210327,N,S
+9420,CH CFood CT Tran Hung Dao 474,"Q.Cai Rang, Can Tho",200907,Y,S
+2113,CH CFood Chung cu Saigon Co.op,HCM,200911,Y,S
+2114,CH CFood CC Diamond Riverside,HCM,210402,Y,S
+2115,CH Co.opFood Thanh Da,HCM,200911,Y,S
+2116,CH Co.opFood Tay Thanh,HCM,200911,Y,S
+21131,TC CH CF Chung cu Saigon Co.op,Binh Duong,200911,N,S
+21141,TC CH CF CC Diamond Riverside,Binh Duong,210402,N,S
+21151,TC CH Co.opFood Thanh Da,Binh Duong,200911,N,S
+21161,TC CH Co.opFood Tay Thanh,Binh Duong,200911,N,S
+2117,CH CoopFood Duong So 1 Ten Lua,"Q.Binh Tan, HCM",200917,Y,S
+21171,TC CH CF Duong So 1 Ten Lua,Binh Duong,200917,N,S
+2118,NKD-CH CFood Dong Bac 206-208,HCM,201005,N,S
+2119,CH Co.opFood Lien Ap 2-6,HCM,201005,Y,S
+2120,CH Co.opFood Nguyen Thong 1,HCM,201005,Y,S
+21181,TC CH CFood Dong Bac 206-208,Binh Duong,201005,N,S
+21191,TC CH Co.opFood Lien Ap 2-6,Binh Duong,201005,N,S
+21201,TC CH Co.opFood Nguyen Thong 1,Binh Duong,201005,N,S
+2121,CH Co.opFood Ba Dinh,HCM,201017,Y,S
+21211,TC CH Co.opFood Ba Dinh,Binh Duong,201017,N,S
+9165,CH Co.opFood HN Eco Dream,"H.Thanh Tri, Ha Noi",201026,Y,S
+2122,KSD-CH Co.opFood Ma Lo,HCM,201105,N,S
+21221,TC CH Co.opFood Ma Lo,Binh Duong,201105,N,S
+1471,CH CFood 135 Truong Cong Dinh,Soc Trang,201111,Y,S
+2123,CH Co.opFood Binh Khanh,HCM,201113,Y,S
+21231,TC CH Co.opFood Binh Khanh,Binh Duong,201113,N,S
+2124,CH Co.opFood Thoai Ngoc Hau 1,"Q.Tan Phu, HCM",201123,Y,S
+2125,CH Co.opFood Vinh Vien 393,HCM,201123,Y,S
+2126,CH Co.opFood CC Phu Gia,HCM,210422,Y,S
+2127,CH Co.opFood Duong 339,HCM,201123,Y,S
+21241,TC CH CFood Thoai Ngoc Hau 1,Binh Duong,201123,N,S
+21251,TC CH Co.opFood Vinh Vien 393,Binh Duong,201123,N,S
+21261,TC CH Co.opFood CC Phu Gia,Binh Duong,210422,N,S
+21271,TC CH Co.opFood Duong 339,Binh Duong,201123,N,S
+18501,CH CF TH Chung cu Tecco Tower,"TP.ThanhHoa,ThanhHoa",201126,Y,S
+14201,CH CF BL Nguyen Thi Minh Khai,Bac Lieu,201126,Y,S
+14202,CH Co.opFood BL Le Duan,Bac Lieu,201126,Y,S
+12001,CH Co.opFood Ba Lang,"H.Long Ho, Vinh Long",201126,Y,S
+54701,CH Co.opFood DN Dinh Chau,Da Nang,201126,Y,S
+14700,TC Co.opFood TT Soc Trang,Binh Duong,201127,N,S
+18500,TC Co.opFood TT Thanh Hoa,Binh Duong,201127,N,S
+14200,TC Co.opFood TT Bac Lieu 2,Binh Duong,201127,N,S
+12000,TC Co.opFood TT Vinh Long,Binh Duong,201127,N,S
+54700,TC Co.opFood TT Son Tra,Binh Duong,201127,N,S
+2128,CH CFood CC Safira Khang Dien,HCM,201201,Y,S
+2129,CH Co.opFood Nguyen Van Tao,"H.Nha Be, HCM",201201,Y,S
+2130,CH Co.opFood Ho Van Tu,HCM,201201,Y,S
+2131,CH Co.opFood Quach Dinh Bao,"Q.Tan Phu, HCM",201201,Y,S
+2132,CH Co.opFood Truong Quoc Dung,HCM,201201,Y,S
+21281,TC CH CF CC Safira Khang Dien,Binh Duong,201201,N,S
+21291,TC CH Co.opFood Nguyen Van Tao,Binh Duong,201201,N,S
+21301,TC CH Co.opFood Ho Van Tu,Binh Duong,201201,N,S
+21311,TC CH Co.opFood Quach Dinh Bao,Binh Duong,201201,N,S
+21321,TC CH CFood Truong Quoc Dung,Binh Duong,201201,N,S
+9504,NKD-CH CFood LA Lanh Binh Thai,"H.Can Giuoc, Long An",201201,N,S
+569,Co.opMart Thap Muoi,"Dong Thap, VN",201205,Y,S
+5691,Trung Chuyen Thap Muoi-569,Binh Duong,201208,N,S
+12200,TC Co.opFood TT Phu Yen,Binh Duong,201210,N,S
+12700,TC Co.opFood TT Binh Phuoc,Binh Duong,201210,N,S
+18300,TC Co.opFood TT Hai Phong,Binh Duong,201210,N,S
+56200,TC Co.opFood TT Thoai Son,Binh Duong,201210,N,S
+52200,TC Co.opFood TT Ca Mau,Binh Duong,201210,N,S
+12201,CH Co.opFood PY Vo Thi Sau,Phu Yen,201210,Y,S
+12701,CH Co.opFood BP Nguyen Hue,Binh Phuoc,201210,Y,S
+18301,CH Co.opFood HP Tran Hung Dao,"ThuyNguyen,Hai Phong",201210,Y,S
+56201,CH CFood 16-18Nguyen Truong To,"Long Xuyen, An Giang",201210,Y,S
+52201,CH Co.opFood CM Ngo Quyen,Ca Mau,201210,Y,S
+2133,KSD-CH Co.opFood 15 Duong so 1,"Q.Binh Tan, HCM",201218,N,S
+21331,TC CH Co.opFood 15 Duong so 1,Binh Duong,201218,N,S
+18502,CH Co.opFood TH KDT Dong Son,Thanh Hoa,201221,Y,S
+12202,CH Co.opFood PY Truong Chinh,Phu Yen,201222,Y,S
+12203,CH Co.opFood PY Chi Thanh,"H.Tuy An, Phu Yen",201222,Y,S
+14702,CH Co.opFood ST Tran De,"H.Tran De, Soc Trang",201229,Y,S
+2134,CH Co.opFood CC Phu Hoang Anh,HCM,210520,Y,S
+21341,TC Co.opFood CC Phu Hoang Anh,Binh Duong,210520,N,S
+9421,CH Co.opFood CT Thoi Thuan,"Q.Thot Not, Can Tho",210105,Y,S
+2135,CH Co.opFood Nguyen Van Dung,HCM,210105,Y,S
+21351,TC CH CFood Nguyen Van Dung,Binh Duong,210105,N,S
+14001,CH Co.opFood KH Vinh Thanh,"TP.NhaTrang,KhanhHoa",210106,Y,S
+14000,TC Co.opFood TT Nha Trang,Binh Duong,210106,N,S
+4204,KSD-FL SUPERMARKET URBANHILL,HCM,210106,N,S
+42041,KSD-TC SUPERMARKET URBAN HILL,Binh Duong,210106,N,S
+2136,CH Co.opFood Phu Dinh,HCM,210111,Y,S
+21361,TC CH Co.opFood Phu Dinh,Binh Duong,210111,N,S
+399,FINELIFE SUPERMARKET URBANHILL,HCM,210115,Y,S
+3991,TC FL SUPERMARKET URBAN HILL,Binh Duong,210115,N,S
+18503,CH Co.opFood TH Sam Son,Thanh Hoa,210115,Y,S
+15001,CH CFood HT Hai Thuong Lan Ong,"TP.Ha Tinh, Ha Tinh",210115,Y,S
+15000,TC Co.opFood TT Ha Tinh,Binh Duong,210115,N,S
+9323,NKD-CH CF BD KDC Viet Sing DA6,Binh Duong,210217,N,S
+56202,CH Co.opFood AG Tran Hung Dao,"TP.LongXuyen,AnGiang",210311,Y,S
+15002,CH Co.opFood HT Hong Linh,"TX Hong Linh,Ha Tinh",210311,Y,S
+12204,CH Co.opFood PY Hoa Xuan Tay,"TX.Dong Hoa,Phu Yen",210311,Y,S
+12205,CH Co.opFood PY Tran Phu,Phu Yen,210311,Y,S
+18504,CH CoopFood TH Duong Dinh Nghe,"Tp.ThanhHoa,ThanhHoa",210323,Y,S
+9324,CH Co.opFood BD Binh Duong,"TP.Di An, Binh Duong",210412,Y,S
+69074,CH NQ Sky 9,"P.Phu Huu, Q9, HCM",210415,Y,S
+570,Co.opMart ThangLoi-TruongChinh,HCM,210423,Y,S
+5701,TC Thang Loi-Truong Chinh-570,Binh Duong,210423,N,S
+2137,CH CF Nguyen Thai Hoc Premium,"Q1, HCM",210520,Y,S
+21371,TC CF Nguyen Thai Hoc Premium,Binh Duong,210520,N,S
+2138,CH CFood Duong so 8 Linh Trung,HCM,210520,Y,S
+21381,TC CF Duong so 8 Linh Trung,Binh Duong,210520,N,S
+8082,CUM KHO TPTS 1,HCM,0,N,S
+8083,CUM KHO TPTS 2,HCM,210716,N,S
+8084,CUM KHO TPTS 3,HCM,210716,N,S
+8085,CUM KHO TPTS 4,HCM,210716,N,S
+8086,CUM KHO TPTS 5,HCM,210716,N,S
+18505,CH Co.opFood TH Nam Ngan,Thanh Hoa,211012,Y,S
+2139,CH Co.opFood CC Moscow Tower,"Q12, HCM",211104,Y,S
+2140,NKD-CH Co.opFood Hiep Phu,HCM,211104,N,S
+21391,TC CH CoopFood CC Moscow Tower,Binh Duong,211104,N,S
+21401,TC CH Co.opFood Hiep Phu,Binh Duong,211104,N,S
+2141,CH Co.opFood Thoi Hoa,"H.Binh Chanh, HCM",211130,Y,S
+21411,TC CH Co.opFood Thoi Hoa,Binh Duong,211130,N,S
+2142,CH Co.opFood Ky Dong,HCM,211229,Y,S
+2143,CH Co.opFood Hoang Huu Nam,"TP.Thu Duc, HCM",211229,Y,S
+21421,TC CH Co.opFood Ky Dong,Binh Duong,211229,N,S
+21431,TC CH Co.opFood Hoang Huu Nam,Binh Duong,211229,N,S
+2144,CH Co.opFood Cho Thu Duc,HCM,220418,N,S
+21441,TC CH Co.opFood Cho Thu Duc,Binh Duong,220418,N,S
+2145,CH Co.opFood Bong Sao,HCM,220510,Y,S
+21451,TC CH Co.opFood Bong Sao,Binh Duong,220510,N,S
+2146,CH Co.opFood Lac Long Quan,HCM,220520,Y,S
+21461,TC CH Co.opFood Lac Long Quan,Binh Duong,220520,N,S
+2147,CH Co.opFood Ehome 3,HCM,220525,Y,S
+21471,TC CH Co.opFood Ehome 3,Binh Duong,220525,N,S
+39001,Cua Hang Tong Ben Thanh,HCM,220607,N,S
+39002,CD1 (Cua dong hanhlang Cho BT),HCM,220607,Y,S
+39003,CD2 (Cua dong hanhlang Cho BT),HCM,220607,Y,S
+39004,CD3 (Cua dong hanhlang Cho BT),HCM,220607,Y,S
+39005,CD4 (Cua dong hanhlang Cho BT),HCM,220607,Y,S
+39006,CD5 (Cua dong hanhlang Cho BT),HCM,220607,Y,S
+39007,CD6 (Cua dong hanhlang Cho BT),HCM,220607,Y,S
+39008,CD7 (Cua dong hanhlang Cho BT),HCM,220607,Y,S
+39009,CT1 (Cua tay hanh lang Cho BT),HCM,220607,Y,S
+39010,CT2 (Cua tay hanh lang Cho BT),HCM,220607,Y,S
+39011,CT3 (Cua tay hanh lang Cho BT),HCM,220607,Y,S
+39012,CT4 (Cua tay hanh lang Cho BT),HCM,220607,Y,S
+39013,CT5 (Cua tay hanh lang Cho BT),HCM,220607,Y,S
+39014,CT6 (Cua tay hanh lang Cho BT),HCM,220607,Y,S
+39015,Quay vai sieu thi Cong Quynh,HCM,220607,Y,S
+39016,Quay vai sieu thi XLHN,HCM,220607,Y,S
+2148,CH Co.opFood Nguyen Sy Sach,HCM,220615,Y,S
+21481,TC CH Co.opFood Nguyen Sy Sach,Binh Duong,220615,N,S
+15003,CH Co.opFood HT Nguyen Bien,"H.Cam Xuyen, Ha Tinh",220627,Y,S
+2149,CH Co.opFood Hoang Huu Nam 222,"Tp.Thu Duc, HCM",220708,Y,S
+2150,CH Co.opFood Nguyen Van Dau 21,HCM,220708,Y,S
+2151,CH Co.opFood Duong D5 87,HCM,220708,Y,S
+21491,TC CH CFood Hoang Huu Nam 222,Binh Duong,220708,N,S
+21501,TC CH CFood Nguyen Van Dau 21,Binh Duong,220708,N,S
+21511,TC CH Co.opFood Duong D5 87,Binh Duong,220708,N,S
+2152,CH Co.opFood Trung My Tay,HCM,220715,Y,S
+2153,CH Co.opFood CC Akari City,HCM,220715,Y,S
+21521,TC CH Co.opFood Trung My Tay,Binh Duong,220715,N,S
+21531,TC CH Co.opFood CC Akari City,Binh Duong,220715,N,S
+12206,CH Co.opFood PY Nguyen Huu Tho,Phu Yen,220723,Y,S
+12207,CH Co.opFood PY Hoa Hiep Trung,"TX.Dong Hoa, Phu Yen",220723,Y,S
+2154,CH Co.opFood No Trang Long 17,HCM,220804,Y,S
+2155,CH Co.opFood Cao Lo,HCM,220804,Y,S
+2156,CH Co.opFood Phan Dinh Phung,HCM,220804,Y,S
+21541,TC CH CoopFood No Trang Long17,Binh Duong,220804,N,S
+21551,TC CH Co.opFood Cao Lo,Binh Duong,220804,N,S
+21561,TC CH CoopFood Phan Dinh Phung,Binh Duong,220804,N,S
+12208,CH Co.opFood PY La Hai,Phu Yen,220804,Y,S
+2157,CH Co.opFood CC Hoang Quan 2,HCM,220913,Y,S
+21571,TCCH CF ChungCu Hoang Quan 2,Binh Duong,0,N,S
+2158,CH Co.opFood CC Lavita Charm,HCM,220913,Y,S
+21581,TCCH CF CC Lavita Charm,Binh Duong,220913,N,S
+2159,CH Co.opFood Le Van Tho 561,HCM,220913,Y,S
+21591,TCCH CF Le Van Tho 561,Binh Duong,220913,N,S
+2160,CF Dinh Phong Phu 88,HCM,220913,Y,S
+21601,TCCH CF Dinh Phong Phu 88,Binh Duong,220913,N,S
+571,Co.op Mart An Nhon,Binh Dinh,220921,Y,S
+5711,Trung Chuyen An Nhon-571,Binh Duong,220921,N,S
+572,Co.opMart Duc Pho,Quang Ngai,220921,Y,S
+5721,Trung chuyen Duc Pho-572,Binh Duong,220921,N,S
+2161,CH CFood CC SunriseRiverside,HCM,221118,Y,S
+21611,TCCH CF CC SunriseRiverside,Binh Duong,221118,N,S
+2162,CH CFood CC HoangAnh GoldHouse,HCM,221118,Y,S
+21621,TC CHCF HOANG ANH GOLD HOUSE,Binh Duong,221118,N,S
+2163,CH Co.opFood LyChieuHoang113,HCM,221126,Y,S
+21631,TC CH CFood LyChieuHoang113,Binh Duong,221126,N,S
+2164,CH Co.opFood CC Hausneo,HCM,221126,N,S
+21641,TC CH Co.opFood CC Hausneo,Binh Duong,221126,N,S
+9325,CH Co.opFood BD Binh Chuan,Binh Duong,221126,Y,S
+9326,CH Co.opFood CC Charm Sapphire,"TP Di An, Binh Duong",221201,Y,S
+15004,CH Co.opFood HT Vu Quang,Ha Tinh,221201,Y,S
+15005,CH Co.opFood HT Ha Huy Tap,"TP.HaTinh,tinhHaTinh",221201,Y,S
+53701,CH Co.opFood PTH Tu Xa,Tinh Phu Tho,221202,Y,S
+53700,TC Co.opFood TT Viet Tri,Binh Duong,221202,N,S
