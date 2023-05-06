@@ -5,15 +5,15 @@ from datetime import datetime
 import shutil
 
 # Global:
-working_directory = os.getcwd() + '\\'
+working_directory = os.getcwd() + '/'
 
 
 # This function return a list of csv file in the directory that user input, or the csv file of a specific Store
 def get_filenames(working_directory, storename=''):
-    filenames = glob.glob(working_directory + 'unprocessed_files\\' + storename + '*.csv')
+    filenames = glob.glob(working_directory + 'unprocessed_files/' + storename + '*.csv')
 
     for i in range(len(filenames)):
-        filenames[i] = filenames[i].replace(working_directory, '').replace('unprocessed_files\\','')
+        filenames[i] = filenames[i].replace(working_directory, '').replace('unprocessed_files/','')
     return filenames
 
 
@@ -69,7 +69,7 @@ def get_storeid(store_name, data_direc):
 # This function create a folder for saving output, the rule for setting output name is: output + mmddyy hh:mm
 def make_output_folder(directory, filename=''):
     now = datetime.now().strftime("%m%d%y")
-    output_folder = directory + ' output ' + str(now) + '\\'
+    output_folder = directory + ' output ' + str(now) + '/'
     if os.path.exists(output_folder):
         pass
     else:
@@ -79,7 +79,7 @@ def make_output_folder(directory, filename=''):
         return output_folder
     else:
         store_folder = output_folder + 'Co.opMart ' + filename.replace(" - HMP", '').replace(" - TPCN", '').replace(
-            " - DD", '').replace('.csv', '') + '\\'
+            " - DD", '').replace('.csv', '') + '/'
         if os.path.exists(store_folder):
             pass
         else:
@@ -106,15 +106,33 @@ def check_sku_array(category, SKU, category_1='HMP', category_2='TPCN', category
 #     input_filename = input_filename + ' ' + storeid + '.csv'
 #     return input_filename
 
+def count_discontinued_sourcing(sourcing_file_direct,SKU_dict):
+    list_of_SKU = [SKUs for sublist in SKU_dict.values() for SKUs in sublist]
+    count_result = {}
+
+    with open(sourcing_file_direct,'r',encoding='ISO-8859-1') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            if row['*Item'] in list_of_SKU and row['Disc'] != '':
+                if row['*Dest'] not in count_result:
+                    count_result[row['*Dest']] = 1
+                else:
+                    count_result[row['*Dest']] += 1
+    return count_result
+
+
 
 if __name__ == '__main__':
 
     today = datetime.now().strftime("%m%d%y")
+    counting = count_discontinued_sourcing(working_directory + 'sourcing/sourcing_discontinued_sku.csv',get_categorized_skus(working_directory + 'master_files/'))
+    print(counting)
+    exit(0)
 
     # Remove old stuffs:
     old_output_store_files = working_directory + ' output ' + str(datetime.now().strftime("%m%d%y"))
-    old_output_sourcing_files = working_directory + 'sourcing\\' + 'sourcing-output-discontinued ' + today + '.csv'
-    old_output_leftout_check_files = working_directory + 'sourcing\\' + 'sourcing-output-leftout-check ' + today + '.csv'
+    old_output_sourcing_files = working_directory + 'sourcing/' + 'sourcing-output-discontinued ' + today + '.csv'
+    old_output_leftout_check_files = working_directory + 'sourcing/' + 'sourcing-output-leftout-check ' + today + '.csv'
     if os.path.exists(old_output_store_files):
         shutil.rmtree(old_output_store_files)
     if os.path.exists(old_output_sourcing_files):
@@ -129,7 +147,7 @@ if __name__ == '__main__':
     files_dictionary = categorized_filename(get_filenames(working_directory))
 
     # Create a dictionary that include all SKUs divided into 3 categories: HMP, TPCN, DD
-    SKU_dictionary = get_categorized_skus(working_directory + 'master_files\\')
+    SKU_dictionary = get_categorized_skus(working_directory + 'master_files/')
 
     # Open each files to read and write necessary data into output files
     for keys in files_dictionary:
@@ -139,9 +157,9 @@ if __name__ == '__main__':
         # Open each file path
         for files in files_dictionary[keys]:
             # Convert filename to include Store name only. Used for output name later.
-            files_direct = working_directory + 'unprocessed_files\\' + files
+            files_direct = working_directory + 'unprocessed_files/' + files
             output_folder = make_output_folder(working_directory, files)
-            storeid = get_storeid(files, working_directory + 'master_files\\' + 'StoreID.csv')
+            storeid = get_storeid(files, working_directory + 'master_files/' + 'StoreID.csv')
             output_filename_path = output_folder + storeid + '.csv'
             try:
                 with open(files_direct, 'r', encoding='ISO-8859-1') as input_files, open(
@@ -154,12 +172,12 @@ if __name__ == '__main__':
                         writer.writeheader()
                     for row in reader:
                         if row['ITEM'] in check_array:
-                            data = {
+                            data1 = {
                                 'ITEM': row['ITEM'],
                                 'VENDOR': row['VENDOR'],
                                 'STATUS': row['STATUS']
                             }
-                            writer.writerow(data)
+                            writer.writerow(data1)
                 if storeid in processing_stores_path:
                     pass
                 else:
@@ -170,13 +188,13 @@ if __name__ == '__main__':
 
     processed_files = get_filenames(working_directory)
     for file in processed_files:
-        path = working_directory + 'unprocessed_files\\' + file
-        new_path = working_directory + 'processed_files\\' + file
+        path = working_directory + 'unprocessed_files/' + file
+        new_path = working_directory + 'processed_files/' + file
         shutil.move(path,new_path)
 
     for store_output in processing_stores_path:
         # Write a new sourcing file for each store to decrease the size of reading/checking file
-        with open(working_directory + 'sourcing\\sourcing_discontinued_sku.csv', 'r',
+        with open(working_directory + 'sourcing/sourcing_discontinued_sku.csv', 'r',
                   encoding='ISO-8859-1') as sourcing_file, open(
             processing_stores_path[store_output].replace(store_output + '.csv', '') + 'sourcing.csv', 'a',
             encoding='ISO-8859-1', newline='') as sourcing_store:
@@ -191,7 +209,7 @@ if __name__ == '__main__':
         with open(processing_stores_path[store_output], 'r', encoding='ISO-8859-1') as store_data, open(
                 processing_stores_path[store_output].replace(store_output + '.csv', '') + 'sourcing.csv', 'r',
                 encoding='ISO-8859-1') as sourcing_store, open(
-            working_directory + 'sourcing\\' + 'sourcing-output-discontinued ' + today + '.csv', 'a',
+            working_directory + 'sourcing/' + 'sourcing-output-discontinued ' + today + '.csv', 'a',
             encoding='ISO-8859-1', newline='') as output_source:
             reader1 = csv.DictReader(store_data)
             reader2 = csv.DictReader(sourcing_store)
@@ -204,22 +222,22 @@ if __name__ == '__main__':
                     sourcing_store.seek(0)
                     for sourcing_rows in reader2:
                         if sourcing_rows['*Item'] == store_data_rows['ITEM'] and sourcing_rows['Disc'] == '':
-                            data = {
+                            data2 = {
                                 '*Item': sourcing_rows['*Item'],
                                 '*Source': sourcing_rows['*Source'],
                                 '*Dest': sourcing_rows['*Dest']
                             }
-                            writer.writerow(data)
+                            writer.writerow(data2)
 
         with open(processing_stores_path[store_output], 'r', encoding='ISO-8859-1') as store_data, open(
                 processing_stores_path[store_output].replace(store_output + '.csv', '') + 'sourcing.csv', 'r',
                 encoding='ISO-8859-1') as sourcing_store, open(
-            working_directory + 'sourcing\\' + 'sourcing-output-leftout-check ' + today + '.csv',
-            'w', encoding='ISO-8859-1', newline='') as output_source:
+            working_directory + 'sourcing/' + 'sourcing-output-leftout-check ' + today + '.csv',
+            'a', encoding='ISO-8859-1', newline='') as output_source:
             reader1 = csv.DictReader(store_data)
             reader2 = csv.DictReader(sourcing_store)
-            writer = csv.DictWriter(output_source, fieldnames=reader1.fieldnames)
-            header = ['ITEM', 'VENDOR', 'STATUS']
+            header = ['ITEM', 'VENDOR', 'STORE', 'STATUS']
+            writer = csv.DictWriter(output_source, fieldnames=header)
             if output_source.tell() == 0:
                 writer.writeheader()
             for store_data_rows in reader1:
@@ -230,10 +248,11 @@ if __name__ == '__main__':
                         SKU_exist = True
                         break
                 if not SKU_exist:
-                    data = {
+                    data3 = {
                         'ITEM': store_data_rows['ITEM'],
                         'VENDOR': store_data_rows['VENDOR'],
+                        'STORE': store_output,
                         'STATUS': store_data_rows['STATUS']
                     }
-                    writer.writerow(data)
+                    writer.writerow(data3)
         print("Done writing store: " + store_output)
